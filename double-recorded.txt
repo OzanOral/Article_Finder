@@ -1,0 +1,784 @@
+De-Differentiated Tubulocystic Carcinoma of the Kidney: A Series of 3 Cases with FISH Analysis
+Non-Invasive Micropapillary Urothelial Carcinoma: A Report of 18 Cases
+Sall4 and SF-1 Are Sensitive and Specific Markers for Distinguishing Granulosa Cell Tumors from Yolk Sac Tumors
+Molecular Factors Showing Multivariate Significance for Outcome in a Conservatively Treated Prostate Cancer Biopsy Cohort
+Value of Reflex ImmunoCyt Testing for the Diagnosis of Bladder Cancer
+Rearrangement of the ETS Genes ETV-1 ETV-4 ETV-5 and LK-1 Is a Clonal Event during Prostate Cancer Progression
+Utility of Gata3 and Pax8 Immunohistochemistry in Diagnosing Sarcomatoid Urothelial Carcinoma (UC) and Sarcomatoid Renal Cell Carcinoma (RCC)
+High Risk Human Papilloma Virus DNA Detected in Primary Squamous Cell Carcinoma of Urinary Bladder
+E-Cadherin Expression in Prostatic Adenocarcinoma: Correlation with Gleason Score and Comparison with Invasive High Grade Urothelial Carcinoma
+Loss of PTEN Immunoexpression Is Associated with Increased Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Does Increasing Fuhrman Nuclear Grade Reflect Evolving Epithelial-Mesenchymal Transition in Clear Cell Renal Cell Carcinoma?
+Urothelial CIS with Microinvasion: A Morphologic and Prognostic Study
+Clear Cell Papillary Cystadenoma of the Epididymis and Mesosalpinx: Immunohistochemical Relationship to Clear Cell Papillary Renal Cell Carcinoma (RCC)
+Expression of Parafibromin in Renal Tumors and Its Potential Correlation with Tumor Prognosis
+BCA2 Is Differentially Expressed in Renal Oncocytoma: An Analysis of 158 Renal Neoplasms
+Tumor Regression after Neoadjuvant Chemotherapy Independently Predicts Survival in Bladder Cancer Patients
+Expression of the Na+/K+-Transporting ATPase Gamma Subunit FXYD2 in Chromophobe Renal Cell Carcinoma and Renal Oncocytoma
+The Diagnostic Accuracy and Clinical Role of Percutaneous Renal Needle Core Biopsy in Renal Cortical Neoplasms
+Smaller Prostate Size Is Independently Associated with Biochemical Recurrence in Gleason 7 Prostate Cancer
+Smaller Prostate Size Is Associated with Greater Volume of Disease at Prostatectomy
+Dysregulation of mTOR Pathway in Plasmacytoid Variant of Urothelial Carcinoma of the Urinary Bladder
+ERG Immunoexpression Does Not Predict Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Correlation between ERG Immunohistochemical Expression and Radiation Response in Prostate Cancer
+Renal Tumors in Patients with Von Hippel-Lindau Disease – A Single Institutional Study over 15 Years
+Prognostic Significance of RICTOR Protein Expression in Prostatic Adenocarcinomas (PACs): Nuclear Immunoreactivity Independently Predicts Disease Recurrence
+Inverted/Endophytic Growth Pattern of Papillary Urothelial Neoplasms of the Bladder: Clinicopathological Study in 225 Transurethral Resection Specimens
+Cysteine- Rich Secretory Protein 3 (CRISP3) ERG and PTEN Define a Molecular Subtype of Prostate Cancer with Poorest Clinical Patient’s Outcome
+The Expression Patterns of p53 and p16 and an Analysis of a Possible Role of HPV in Primary Adenocarcinoma of the Urinary Bladder
+Next Generation Targeted Prostate Biopsies vs. Standard Multicore Prostate Biopsies: Comparing Diagnostic Yield
+Clinicopathological Analysis of Testicular Germ Cell Tumor (GCT) with Rhabdomyosarcomatous Transformation
+Pathological Features of Metastatic Regional Lymph Nodes in Penile Squamous Cell Carcinoma
+SALL4 Is a Better Marker Than PLAP in Metastatic Treated Malignant Germ Cell Tumors
+Utility of ERG vs. AMACR Expression in Diagnosis of Minimal Adenocarcinoma of the Prostate in Needle Biopsy Tissue
+Does Discontinuous Involvement of a Prostatic Needle Biopsy Core by Adenocarcinoma Correlate with the Presence of a Large Tumor Focus at Radical Prostatectomy?
+Composite Gleason Score (CGS) Is Superior to Grading Individual Needle Cores When More Than Two Grades Are Present in a 12 Core Prostate Biopsy: A Study of 118 Cases
+Is the 2005 International Society of Urological Pathology (ISUP) Recommendation for Gleason Grading Accurate When Three Different Gleason Grade Patterns Are Present in the Same Needle Core?
+Specificity of GATA3 Staining with Special Emphasis on GATA3 and Uroplakin 2 in Urothelial Lesions
+Utility of Immunohistochemical Stains in Differentiating Urothelial Carcinoma from Squamous Cell Carcinoma
+Novel Technique of Sampling the Urinary Bladder in Radical Cystectomy Specimens for Urothelial Carcinoma
+Basal-Like Variant of Non-Invasive Urothelial Carcinoma: A Variant of Urothelial Carcinoma with Immunohistochemical Features of Basal-Like Urothelial Cells Associated with High Rate of Recurrence and Invasion
+“Early” and Other Patterns Associated with Intraductal Carcinoma of the Prostate (IDC-P): A Study Focusing on Proximal Duct (PD) Involvement and PTEN Loss
+Identification and Validation of Protein Biomarkers of Response to Neoadjuvant Chemotherapy in Muscle Invasive Urothelial Carcinoma
+Handling and Reporting of Orchiectomy Specimens with Testicular Cancer: Areas of Consensus and Variation among 25 Experts and 225 European Pathologists
+GATA3 Expression in Small Cell Carcinoma of Bladder and Lung Origin
+Human Papillomavirus Infection and Immunohistochemical p16INK4a Expression in Penile Squamous Cell Carcinomas
+A Machine Learning Tool to Complement Gleason Grading of Prostate Carcinoma
+Tumor Extent Evaluation in Surgical Specimens of Patients Submitted to Radical Prostatectomy: A Comparative Study
+Topography of Index Tumor in Surgical Specimens of Patients Submitted to Radical Prostatectomy: Clinicopathological Associations
+Clinicopathologic Findings Associated with Insignificant Prostate Cancer in Surgical Specimens of Patients Submitted to Radical Prostatectomy
+A Subset of Prostatic Basal Cell Carcinomas Harbor the MYB Rearrangements That Characterize Salivary Gland Adenoid Cystic Carcinoma
+SPOP Mutations in Prostate Cancer across Ethnically and Geographically Diverse Patient Cohorts
+MED15 Encoding a Subunit of the Mediator Complex Is Overexpressed at High Frequency in Castration-Resistant Prostate Cancer
+Mixed Papillary Renal Cell Carcinoma (PRCC) Represents Similar Patterns of Chromosomal Abnormalities to Those of Pure Type 1 PRCC: A Study Including Nine Cases
+Pathological Predictors of Biochemical Recurrence in Patients with a Positive Surgical Margin at Radical Prostatectomy
+LIN28 Is More Sensitive Than SALL4 and OCT4 in Detecting Necrotic Embryonal Carcinoma and Seminoma
+Fine Needle Aspiration with and without Concurrent Core Needle Biopsy in the Diagnosis of Renal Masses
+CDCA5 Overexpression as a Poor Prognostic Factor in Patients with Urothelial Carcinomas of Upper Urinary Tract and Urinary Bladder
+Molecular Pathways Altered in TMPRSS2/ERG Fusion Gene Expressing Prostate Cancers
+Minimal Prostate Cancer on TRUS Biopsy: Incidence and Follow-Up in a Cohort of 61 Patients
+Expression of de Novo Lipogenic Enzymes and Prostate Cancer Progression after Radical Prostatectomy
+Staging of Bladder Cancer (PTA VS. PT1) among 238 European Pathologists Reporting pTa Versus pT1 on Transuretheral Resection Specimen of the Bladder (TURB). A Survey of 238 European Pathologists
+GATA3 Is a Sensitive and Relatively Specific Biomarker for Testicular Choriocarcinoma
+Papillary Renal Cell Carcinoma: Correlation of Tumor Grade and Histologic Characteristics with Clinical Outcome
+Adult Granulosa Cell Tumors of the Testis: A Case Series of 31 Patients
+Hilar Soft Tissue Involvement by Testicular Germ Cell Tumors Is Associated with Advanced Stage Indicators
+Does the Mitotic Rate in Non-Invasive Low-Grade Papillary Urothelial Carcinoma (LG) Carry a Prognostic Significance?
+Highest Percentage of Core Involvement by Gleason Score 7 (%GS7) Is an Independent Predictor for pT3 Tumor on Radical Prostatectomy (RP) in Patients Diagnosed with Gleason Score 7 (GS7) Prostatic Carcinoma (PCa) on Biopsy
+Length and Extracapsular Extension at Surgical Margins Are Independent Predictors of Outcomes after Radical Prostatectomy
+Sarcomatoid Clear Cell RCC Shows a Distinct Molecular Pathogenesis and Driver Mutation Profile
+Prostate Cancer (PCa) with Overlapping Features of Small Cell Carcinoma and Acinar Adenocarcinoma: A Critical Appraisal of Morphology and Correlation with Immunohistochemical (IHC) Markers
+Clinical and Immunohistochemical (IHC) Spectrum of Renal Cell Carcinomas (RCCs) with Aberrant Fumarate Hydratase (FH)-Related Studies: Report from the High-Grade Distal Nephron Adenocarcinoma (HDNA) International Consortium
+A Novel Low Grade Morphologic Variant of Hereditary Leiomyomatosis-Renal Cell Carcinoma Syndrome-Associated Renal Cell Carcinoma (HLRCC-RCC)?
+Reduced Survival in Estrogen Receptor Beta Expressing Bladder Cancer: Association with Altered PTEN/mTOR Status
+Tumors Involving the Ureteral Orifice: A Clinicopathologic Analysis of 93 Cases
+PLZF: A Sensitive and Specific Biomarker for Yolk Sac Tumor
+Analysis of PD-L1 Expression Pattern in Advanced Bladder Cancer and Lymph Node Metastasis
+Tumor Somatic Mutation Rate Predicts Response to Anti-PD-1 Therapy in RCC: A Pilot Study
+Type 10 Soluble Adenyl Cyclase is Significantly Overexpressed in Small Cell Prostatic Carcinoma Compared to Neuroendocrine Prostatic Carcinoma and Conventional Adenocarcinoma
+Higher Expression of CDKN2A Gene Is Potential Prognostic Marker for Clear Cell Renal Cell Carcinoma
+Prostate Cancer Gleason Grade 4 Pattern Heterogeneity in Men on Active Surveillance Who Undergo Delayed Prostatectomy
+Eosinophilic Solid and Cystic Renal Cell Carcinoma (ESC RCC): A Novel Entity with Distinct Molecular Karyotype
+The Depth of Tumor Invasion Is Superior to the AJCC/UICC Staging System to Predict Patient Outcomes after Radical Cystectomy: A Proposal for a New Staging System
+Presence of Hormone Resistant Intraductal Carcinoma of the Prostate after Neoadjuvant Hormone Therapy Is a Significant Prognostic Factor for High Risk Prostate Cancer in Radical Prostatectomy Patients
+Predictive Value of Intraductal Carcinoma and Cribriform Architecture in Prostate Biopsies of Patients Treated by Radiotherapy
+Better Treatment of Metastases Cannot Fully Explain Prostate Cancer Survival Improvements Associated with PSA Screening
+Comparison of GRP52 mTOR HoxB13 NKX3.1 and Prostein in Metastatic Prostatic Adenocarcinoma
+Neoadjuvant Chemotherapy (NAC)-Related Histological Changes in Radical Cystectomy (RC): Assessment Accuracy and Prediction of Response
+Comparison of Margin Status and Clinical Follow-Up between Simple Tumor Enucleation and Partial Nephrectomy of Small Renal Tumors
+Characterization of Papillary Hyperplasia in Nephrectomy Specimens from Patients with Autosomal Dominant Polycystic Kidney Disease - A Study of 60 Cases
+Invasion of Rete Testis Hilar Fat and Epididymis by Testicular Malignant Germ Cell Tumors (MGCT) Does Not Justify Upstaging to pT2
+Diagnostic Criteria for Oncocytic Renal Neoplasms: A Survey of Specialist Renal Tumor Pathologists
+Chromosome 6p Amplification Including the TFEB Gene: A Novel Mechanism of Renal Cell Carcinoma Pathogenesis?
+Clear Cell Renal Cell Tumors with Intact VHL and Chromosome 3p: How Many Entities Exist?
+Clinical Follow-Up of Renal Oncocytomas with Vascular Invasion
+Diversity of Resistance Mechanisms in Prostate Cancer after Neoadjuvant Intense Androgen Deprivation Therapy
+The Correlation of TP53 and RB1 Genetic Alterations and Immunohistochemical (IHC) Expression in Invasive and Non-Invasive Urothelial Carcinoma
+Mutational Analysis of Gleason Score 7 Prostate Cancer Using Next Generation Sequencing and Fluorescent In Situ Hybridization
+PD-L1 Protein Expression and PD-L1 Gene Amplification in Urothelial Carcinoma of the Urinary Bladder
+De-Differentiated Tubulocystic Carcinoma of the Kidney: A Series of 3 Cases with FISH Analysis
+Non-Invasive Micropapillary Urothelial Carcinoma: A Report of 18 Cases
+Sall4 and SF-1 Are Sensitive and Specific Markers for Distinguishing Granulosa Cell Tumors from Yolk Sac Tumors
+Molecular Factors Showing Multivariate Significance for Outcome in a Conservatively Treated Prostate Cancer Biopsy Cohort
+Value of Reflex ImmunoCyt Testing for the Diagnosis of Bladder Cancer
+Rearrangement of the ETS Genes ETV-1 ETV-4 ETV-5 and LK-1 Is a Clonal Event during Prostate Cancer Progression
+Utility of Gata3 and Pax8 Immunohistochemistry in Diagnosing Sarcomatoid Urothelial Carcinoma (UC) and Sarcomatoid Renal Cell Carcinoma (RCC)
+High Risk Human Papilloma Virus DNA Detected in Primary Squamous Cell Carcinoma of Urinary Bladder
+E-Cadherin Expression in Prostatic Adenocarcinoma: Correlation with Gleason Score and Comparison with Invasive High Grade Urothelial Carcinoma
+Loss of PTEN Immunoexpression Is Associated with Increased Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Does Increasing Fuhrman Nuclear Grade Reflect Evolving Epithelial-Mesenchymal Transition in Clear Cell Renal Cell Carcinoma?
+Urothelial CIS with Microinvasion: A Morphologic and Prognostic Study
+Clear Cell Papillary Cystadenoma of the Epididymis and Mesosalpinx: Immunohistochemical Relationship to Clear Cell Papillary Renal Cell Carcinoma (RCC)
+Expression of Parafibromin in Renal Tumors and Its Potential Correlation with Tumor Prognosis
+BCA2 Is Differentially Expressed in Renal Oncocytoma: An Analysis of 158 Renal Neoplasms
+Tumor Regression after Neoadjuvant Chemotherapy Independently Predicts Survival in Bladder Cancer Patients
+Expression of the Na+/K+-Transporting ATPase Gamma Subunit FXYD2 in Chromophobe Renal Cell Carcinoma and Renal Oncocytoma
+The Diagnostic Accuracy and Clinical Role of Percutaneous Renal Needle Core Biopsy in Renal Cortical Neoplasms
+Smaller Prostate Size Is Independently Associated with Biochemical Recurrence in Gleason 7 Prostate Cancer
+Smaller Prostate Size Is Associated with Greater Volume of Disease at Prostatectomy
+Dysregulation of mTOR Pathway in Plasmacytoid Variant of Urothelial Carcinoma of the Urinary Bladder
+ERG Immunoexpression Does Not Predict Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Correlation between ERG Immunohistochemical Expression and Radiation Response in Prostate Cancer
+Renal Tumors in Patients with Von Hippel-Lindau Disease – A Single Institutional Study over 15 Years
+Prognostic Significance of RICTOR Protein Expression in Prostatic Adenocarcinomas (PACs): Nuclear Immunoreactivity Independently Predicts Disease Recurrence
+Inverted/Endophytic Growth Pattern of Papillary Urothelial Neoplasms of the Bladder: Clinicopathological Study in 225 Transurethral Resection Specimens
+Cysteine- Rich Secretory Protein 3 (CRISP3) ERG and PTEN Define a Molecular Subtype of Prostate Cancer with Poorest Clinical Patient’s Outcome
+The Expression Patterns of p53 and p16 and an Analysis of a Possible Role of HPV in Primary Adenocarcinoma of the Urinary Bladder
+Next Generation Targeted Prostate Biopsies vs. Standard Multicore Prostate Biopsies: Comparing Diagnostic Yield
+Clinicopathological Analysis of Testicular Germ Cell Tumor (GCT) with Rhabdomyosarcomatous Transformation
+Pathological Features of Metastatic Regional Lymph Nodes in Penile Squamous Cell Carcinoma
+SALL4 Is a Better Marker Than PLAP in Metastatic Treated Malignant Germ Cell Tumors
+Utility of ERG vs. AMACR Expression in Diagnosis of Minimal Adenocarcinoma of the Prostate in Needle Biopsy Tissue
+Does Discontinuous Involvement of a Prostatic Needle Biopsy Core by Adenocarcinoma Correlate with the Presence of a Large Tumor Focus at Radical Prostatectomy?
+Composite Gleason Score (CGS) Is Superior to Grading Individual Needle Cores When More Than Two Grades Are Present in a 12 Core Prostate Biopsy: A Study of 118 Cases
+Is the 2005 International Society of Urological Pathology (ISUP) Recommendation for Gleason Grading Accurate When Three Different Gleason Grade Patterns Are Present in the Same Needle Core?
+Specificity of GATA3 Staining with Special Emphasis on GATA3 and Uroplakin 2 in Urothelial Lesions
+Utility of Immunohistochemical Stains in Differentiating Urothelial Carcinoma from Squamous Cell Carcinoma
+Novel Technique of Sampling the Urinary Bladder in Radical Cystectomy Specimens for Urothelial Carcinoma
+Basal-Like Variant of Non-Invasive Urothelial Carcinoma: A Variant of Urothelial Carcinoma with Immunohistochemical Features of Basal-Like Urothelial Cells Associated with High Rate of Recurrence and Invasion
+“Early” and Other Patterns Associated with Intraductal Carcinoma of the Prostate (IDC-P): A Study Focusing on Proximal Duct (PD) Involvement and PTEN Loss
+Identification and Validation of Protein Biomarkers of Response to Neoadjuvant Chemotherapy in Muscle Invasive Urothelial Carcinoma
+Handling and Reporting of Orchiectomy Specimens with Testicular Cancer: Areas of Consensus and Variation among 25 Experts and 225 European Pathologists
+GATA3 Expression in Small Cell Carcinoma of Bladder and Lung Origin
+Human Papillomavirus Infection and Immunohistochemical p16INK4a Expression in Penile Squamous Cell Carcinomas
+A Machine Learning Tool to Complement Gleason Grading of Prostate Carcinoma
+Tumor Extent Evaluation in Surgical Specimens of Patients Submitted to Radical Prostatectomy: A Comparative Study
+Topography of Index Tumor in Surgical Specimens of Patients Submitted to Radical Prostatectomy: Clinicopathological Associations
+Clinicopathologic Findings Associated with Insignificant Prostate Cancer in Surgical Specimens of Patients Submitted to Radical Prostatectomy
+A Subset of Prostatic Basal Cell Carcinomas Harbor the MYB Rearrangements That Characterize Salivary Gland Adenoid Cystic Carcinoma
+SPOP Mutations in Prostate Cancer across Ethnically and Geographically Diverse Patient Cohorts
+MED15 Encoding a Subunit of the Mediator Complex Is Overexpressed at High Frequency in Castration-Resistant Prostate Cancer
+Mixed Papillary Renal Cell Carcinoma (PRCC) Represents Similar Patterns of Chromosomal Abnormalities to Those of Pure Type 1 PRCC: A Study Including Nine Cases
+Pathological Predictors of Biochemical Recurrence in Patients with a Positive Surgical Margin at Radical Prostatectomy
+LIN28 Is More Sensitive Than SALL4 and OCT4 in Detecting Necrotic Embryonal Carcinoma and Seminoma
+Fine Needle Aspiration with and without Concurrent Core Needle Biopsy in the Diagnosis of Renal Masses
+CDCA5 Overexpression as a Poor Prognostic Factor in Patients with Urothelial Carcinomas of Upper Urinary Tract and Urinary Bladder
+Molecular Pathways Altered in TMPRSS2/ERG Fusion Gene Expressing Prostate Cancers
+Minimal Prostate Cancer on TRUS Biopsy: Incidence and Follow-Up in a Cohort of 61 Patients
+Expression of de Novo Lipogenic Enzymes and Prostate Cancer Progression after Radical Prostatectomy
+Staging of Bladder Cancer (PTA VS. PT1) among 238 European Pathologists Reporting pTa Versus pT1 on Transuretheral Resection Specimen of the Bladder (TURB). A Survey of 238 European Pathologists
+GATA3 Is a Sensitive and Relatively Specific Biomarker for Testicular Choriocarcinoma
+Papillary Renal Cell Carcinoma: Correlation of Tumor Grade and Histologic Characteristics with Clinical Outcome
+Adult Granulosa Cell Tumors of the Testis: A Case Series of 31 Patients
+Hilar Soft Tissue Involvement by Testicular Germ Cell Tumors Is Associated with Advanced Stage Indicators
+Does the Mitotic Rate in Non-Invasive Low-Grade Papillary Urothelial Carcinoma (LG) Carry a Prognostic Significance?
+Highest Percentage of Core Involvement by Gleason Score 7 (%GS7) Is an Independent Predictor for pT3 Tumor on Radical Prostatectomy (RP) in Patients Diagnosed with Gleason Score 7 (GS7) Prostatic Carcinoma (PCa) on Biopsy
+Length and Extracapsular Extension at Surgical Margins Are Independent Predictors of Outcomes after Radical Prostatectomy
+Sarcomatoid Clear Cell RCC Shows a Distinct Molecular Pathogenesis and Driver Mutation Profile
+Prostate Cancer (PCa) with Overlapping Features of Small Cell Carcinoma and Acinar Adenocarcinoma: A Critical Appraisal of Morphology and Correlation with Immunohistochemical (IHC) Markers
+Clinical and Immunohistochemical (IHC) Spectrum of Renal Cell Carcinomas (RCCs) with Aberrant Fumarate Hydratase (FH)-Related Studies: Report from the High-Grade Distal Nephron Adenocarcinoma (HDNA) International Consortium
+A Novel Low Grade Morphologic Variant of Hereditary Leiomyomatosis-Renal Cell Carcinoma Syndrome-Associated Renal Cell Carcinoma (HLRCC-RCC)?
+Reduced Survival in Estrogen Receptor Beta Expressing Bladder Cancer: Association with Altered PTEN/mTOR Status
+Tumors Involving the Ureteral Orifice: A Clinicopathologic Analysis of 93 Cases
+PLZF: A Sensitive and Specific Biomarker for Yolk Sac Tumor
+Analysis of PD-L1 Expression Pattern in Advanced Bladder Cancer and Lymph Node Metastasis
+Tumor Somatic Mutation Rate Predicts Response to Anti-PD-1 Therapy in RCC: A Pilot Study
+Type 10 Soluble Adenyl Cyclase is Significantly Overexpressed in Small Cell Prostatic Carcinoma Compared to Neuroendocrine Prostatic Carcinoma and Conventional Adenocarcinoma
+Higher Expression of CDKN2A Gene Is Potential Prognostic Marker for Clear Cell Renal Cell Carcinoma
+Prostate Cancer Gleason Grade 4 Pattern Heterogeneity in Men on Active Surveillance Who Undergo Delayed Prostatectomy
+Eosinophilic Solid and Cystic Renal Cell Carcinoma (ESC RCC): A Novel Entity with Distinct Molecular Karyotype
+The Depth of Tumor Invasion Is Superior to the AJCC/UICC Staging System to Predict Patient Outcomes after Radical Cystectomy: A Proposal for a New Staging System
+Presence of Hormone Resistant Intraductal Carcinoma of the Prostate after Neoadjuvant Hormone Therapy Is a Significant Prognostic Factor for High Risk Prostate Cancer in Radical Prostatectomy Patients
+Predictive Value of Intraductal Carcinoma and Cribriform Architecture in Prostate Biopsies of Patients Treated by Radiotherapy
+Better Treatment of Metastases Cannot Fully Explain Prostate Cancer Survival Improvements Associated with PSA Screening
+Comparison of GRP52 mTOR HoxB13 NKX3.1 and Prostein in Metastatic Prostatic Adenocarcinoma
+Neoadjuvant Chemotherapy (NAC)-Related Histological Changes in Radical Cystectomy (RC): Assessment Accuracy and Prediction of Response
+Comparison of Margin Status and Clinical Follow-Up between Simple Tumor Enucleation and Partial Nephrectomy of Small Renal Tumors
+Characterization of Papillary Hyperplasia in Nephrectomy Specimens from Patients with Autosomal Dominant Polycystic Kidney Disease - A Study of 60 Cases
+Invasion of Rete Testis Hilar Fat and Epididymis by Testicular Malignant Germ Cell Tumors (MGCT) Does Not Justify Upstaging to pT2
+Diagnostic Criteria for Oncocytic Renal Neoplasms: A Survey of Specialist Renal Tumor Pathologists
+Chromosome 6p Amplification Including the TFEB Gene: A Novel Mechanism of Renal Cell Carcinoma Pathogenesis?
+Clear Cell Renal Cell Tumors with Intact VHL and Chromosome 3p: How Many Entities Exist?
+Clinical Follow-Up of Renal Oncocytomas with Vascular Invasion
+Diversity of Resistance Mechanisms in Prostate Cancer after Neoadjuvant Intense Androgen Deprivation Therapy
+The Correlation of TP53 and RB1 Genetic Alterations and Immunohistochemical (IHC) Expression in Invasive and Non-Invasive Urothelial Carcinoma
+Mutational Analysis of Gleason Score 7 Prostate Cancer Using Next Generation Sequencing and Fluorescent In Situ Hybridization
+PD-L1 Protein Expression and PD-L1 Gene Amplification in Urothelial Carcinoma of the Urinary Bladder
+De-Differentiated Tubulocystic Carcinoma of the Kidney: A Series of 3 Cases with FISH Analysis
+Non-Invasive Micropapillary Urothelial Carcinoma: A Report of 18 Cases
+Sall4 and SF-1 Are Sensitive and Specific Markers for Distinguishing Granulosa Cell Tumors from Yolk Sac Tumors
+Molecular Factors Showing Multivariate Significance for Outcome in a Conservatively Treated Prostate Cancer Biopsy Cohort
+Value of Reflex ImmunoCyt Testing for the Diagnosis of Bladder Cancer
+Rearrangement of the ETS Genes ETV-1 ETV-4 ETV-5 and LK-1 Is a Clonal Event during Prostate Cancer Progression
+Utility of Gata3 and Pax8 Immunohistochemistry in Diagnosing Sarcomatoid Urothelial Carcinoma (UC) and Sarcomatoid Renal Cell Carcinoma (RCC)
+High Risk Human Papilloma Virus DNA Detected in Primary Squamous Cell Carcinoma of Urinary Bladder
+E-Cadherin Expression in Prostatic Adenocarcinoma: Correlation with Gleason Score and Comparison with Invasive High Grade Urothelial Carcinoma
+Loss of PTEN Immunoexpression Is Associated with Increased Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Does Increasing Fuhrman Nuclear Grade Reflect Evolving Epithelial-Mesenchymal Transition in Clear Cell Renal Cell Carcinoma?
+Urothelial CIS with Microinvasion: A Morphologic and Prognostic Study
+Clear Cell Papillary Cystadenoma of the Epididymis and Mesosalpinx: Immunohistochemical Relationship to Clear Cell Papillary Renal Cell Carcinoma (RCC)
+Expression of Parafibromin in Renal Tumors and Its Potential Correlation with Tumor Prognosis
+BCA2 Is Differentially Expressed in Renal Oncocytoma: An Analysis of 158 Renal Neoplasms
+Tumor Regression after Neoadjuvant Chemotherapy Independently Predicts Survival in Bladder Cancer Patients
+Expression of the Na+/K+-Transporting ATPase Gamma Subunit FXYD2 in Chromophobe Renal Cell Carcinoma and Renal Oncocytoma
+The Diagnostic Accuracy and Clinical Role of Percutaneous Renal Needle Core Biopsy in Renal Cortical Neoplasms
+Smaller Prostate Size Is Independently Associated with Biochemical Recurrence in Gleason 7 Prostate Cancer
+Smaller Prostate Size Is Associated with Greater Volume of Disease at Prostatectomy
+Dysregulation of mTOR Pathway in Plasmacytoid Variant of Urothelial Carcinoma of the Urinary Bladder
+ERG Immunoexpression Does Not Predict Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Correlation between ERG Immunohistochemical Expression and Radiation Response in Prostate Cancer
+Renal Tumors in Patients with Von Hippel-Lindau Disease – A Single Institutional Study over 15 Years
+Prognostic Significance of RICTOR Protein Expression in Prostatic Adenocarcinomas (PACs): Nuclear Immunoreactivity Independently Predicts Disease Recurrence
+Inverted/Endophytic Growth Pattern of Papillary Urothelial Neoplasms of the Bladder: Clinicopathological Study in 225 Transurethral Resection Specimens
+Cysteine- Rich Secretory Protein 3 (CRISP3) ERG and PTEN Define a Molecular Subtype of Prostate Cancer with Poorest Clinical Patient’s Outcome
+The Expression Patterns of p53 and p16 and an Analysis of a Possible Role of HPV in Primary Adenocarcinoma of the Urinary Bladder
+Next Generation Targeted Prostate Biopsies vs. Standard Multicore Prostate Biopsies: Comparing Diagnostic Yield
+Clinicopathological Analysis of Testicular Germ Cell Tumor (GCT) with Rhabdomyosarcomatous Transformation
+Pathological Features of Metastatic Regional Lymph Nodes in Penile Squamous Cell Carcinoma
+SALL4 Is a Better Marker Than PLAP in Metastatic Treated Malignant Germ Cell Tumors
+Utility of ERG vs. AMACR Expression in Diagnosis of Minimal Adenocarcinoma of the Prostate in Needle Biopsy Tissue
+Does Discontinuous Involvement of a Prostatic Needle Biopsy Core by Adenocarcinoma Correlate with the Presence of a Large Tumor Focus at Radical Prostatectomy?
+Composite Gleason Score (CGS) Is Superior to Grading Individual Needle Cores When More Than Two Grades Are Present in a 12 Core Prostate Biopsy: A Study of 118 Cases
+Is the 2005 International Society of Urological Pathology (ISUP) Recommendation for Gleason Grading Accurate When Three Different Gleason Grade Patterns Are Present in the Same Needle Core?
+Specificity of GATA3 Staining with Special Emphasis on GATA3 and Uroplakin 2 in Urothelial Lesions
+Utility of Immunohistochemical Stains in Differentiating Urothelial Carcinoma from Squamous Cell Carcinoma
+Novel Technique of Sampling the Urinary Bladder in Radical Cystectomy Specimens for Urothelial Carcinoma
+Basal-Like Variant of Non-Invasive Urothelial Carcinoma: A Variant of Urothelial Carcinoma with Immunohistochemical Features of Basal-Like Urothelial Cells Associated with High Rate of Recurrence and Invasion
+“Early” and Other Patterns Associated with Intraductal Carcinoma of the Prostate (IDC-P): A Study Focusing on Proximal Duct (PD) Involvement and PTEN Loss
+Identification and Validation of Protein Biomarkers of Response to Neoadjuvant Chemotherapy in Muscle Invasive Urothelial Carcinoma
+Handling and Reporting of Orchiectomy Specimens with Testicular Cancer: Areas of Consensus and Variation among 25 Experts and 225 European Pathologists
+GATA3 Expression in Small Cell Carcinoma of Bladder and Lung Origin
+Human Papillomavirus Infection and Immunohistochemical p16INK4a Expression in Penile Squamous Cell Carcinomas
+A Machine Learning Tool to Complement Gleason Grading of Prostate Carcinoma
+Tumor Extent Evaluation in Surgical Specimens of Patients Submitted to Radical Prostatectomy: A Comparative Study
+Topography of Index Tumor in Surgical Specimens of Patients Submitted to Radical Prostatectomy: Clinicopathological Associations
+Clinicopathologic Findings Associated with Insignificant Prostate Cancer in Surgical Specimens of Patients Submitted to Radical Prostatectomy
+A Subset of Prostatic Basal Cell Carcinomas Harbor the MYB Rearrangements That Characterize Salivary Gland Adenoid Cystic Carcinoma
+SPOP Mutations in Prostate Cancer across Ethnically and Geographically Diverse Patient Cohorts
+MED15 Encoding a Subunit of the Mediator Complex Is Overexpressed at High Frequency in Castration-Resistant Prostate Cancer
+Mixed Papillary Renal Cell Carcinoma (PRCC) Represents Similar Patterns of Chromosomal Abnormalities to Those of Pure Type 1 PRCC: A Study Including Nine Cases
+Pathological Predictors of Biochemical Recurrence in Patients with a Positive Surgical Margin at Radical Prostatectomy
+LIN28 Is More Sensitive Than SALL4 and OCT4 in Detecting Necrotic Embryonal Carcinoma and Seminoma
+Fine Needle Aspiration with and without Concurrent Core Needle Biopsy in the Diagnosis of Renal Masses
+CDCA5 Overexpression as a Poor Prognostic Factor in Patients with Urothelial Carcinomas of Upper Urinary Tract and Urinary Bladder
+Molecular Pathways Altered in TMPRSS2/ERG Fusion Gene Expressing Prostate Cancers
+Minimal Prostate Cancer on TRUS Biopsy: Incidence and Follow-Up in a Cohort of 61 Patients
+Expression of de Novo Lipogenic Enzymes and Prostate Cancer Progression after Radical Prostatectomy
+Staging of Bladder Cancer (PTA VS. PT1) among 238 European Pathologists Reporting pTa Versus pT1 on Transuretheral Resection Specimen of the Bladder (TURB). A Survey of 238 European Pathologists
+GATA3 Is a Sensitive and Relatively Specific Biomarker for Testicular Choriocarcinoma
+Papillary Renal Cell Carcinoma: Correlation of Tumor Grade and Histologic Characteristics with Clinical Outcome
+Adult Granulosa Cell Tumors of the Testis: A Case Series of 31 Patients
+Hilar Soft Tissue Involvement by Testicular Germ Cell Tumors Is Associated with Advanced Stage Indicators
+Does the Mitotic Rate in Non-Invasive Low-Grade Papillary Urothelial Carcinoma (LG) Carry a Prognostic Significance?
+Highest Percentage of Core Involvement by Gleason Score 7 (%GS7) Is an Independent Predictor for pT3 Tumor on Radical Prostatectomy (RP) in Patients Diagnosed with Gleason Score 7 (GS7) Prostatic Carcinoma (PCa) on Biopsy
+Length and Extracapsular Extension at Surgical Margins Are Independent Predictors of Outcomes after Radical Prostatectomy
+Sarcomatoid Clear Cell RCC Shows a Distinct Molecular Pathogenesis and Driver Mutation Profile
+Prostate Cancer (PCa) with Overlapping Features of Small Cell Carcinoma and Acinar Adenocarcinoma: A Critical Appraisal of Morphology and Correlation with Immunohistochemical (IHC) Markers
+Clinical and Immunohistochemical (IHC) Spectrum of Renal Cell Carcinomas (RCCs) with Aberrant Fumarate Hydratase (FH)-Related Studies: Report from the High-Grade Distal Nephron Adenocarcinoma (HDNA) International Consortium
+A Novel Low Grade Morphologic Variant of Hereditary Leiomyomatosis-Renal Cell Carcinoma Syndrome-Associated Renal Cell Carcinoma (HLRCC-RCC)?
+Reduced Survival in Estrogen Receptor Beta Expressing Bladder Cancer: Association with Altered PTEN/mTOR Status
+Tumors Involving the Ureteral Orifice: A Clinicopathologic Analysis of 93 Cases
+PLZF: A Sensitive and Specific Biomarker for Yolk Sac Tumor
+Analysis of PD-L1 Expression Pattern in Advanced Bladder Cancer and Lymph Node Metastasis
+Tumor Somatic Mutation Rate Predicts Response to Anti-PD-1 Therapy in RCC: A Pilot Study
+Type 10 Soluble Adenyl Cyclase is Significantly Overexpressed in Small Cell Prostatic Carcinoma Compared to Neuroendocrine Prostatic Carcinoma and Conventional Adenocarcinoma
+Higher Expression of CDKN2A Gene Is Potential Prognostic Marker for Clear Cell Renal Cell Carcinoma
+Prostate Cancer Gleason Grade 4 Pattern Heterogeneity in Men on Active Surveillance Who Undergo Delayed Prostatectomy
+Eosinophilic Solid and Cystic Renal Cell Carcinoma (ESC RCC): A Novel Entity with Distinct Molecular Karyotype
+The Depth of Tumor Invasion Is Superior to the AJCC/UICC Staging System to Predict Patient Outcomes after Radical Cystectomy: A Proposal for a New Staging System
+Presence of Hormone Resistant Intraductal Carcinoma of the Prostate after Neoadjuvant Hormone Therapy Is a Significant Prognostic Factor for High Risk Prostate Cancer in Radical Prostatectomy Patients
+Predictive Value of Intraductal Carcinoma and Cribriform Architecture in Prostate Biopsies of Patients Treated by Radiotherapy
+Better Treatment of Metastases Cannot Fully Explain Prostate Cancer Survival Improvements Associated with PSA Screening
+Comparison of GRP52 mTOR HoxB13 NKX3.1 and Prostein in Metastatic Prostatic Adenocarcinoma
+Neoadjuvant Chemotherapy (NAC)-Related Histological Changes in Radical Cystectomy (RC): Assessment Accuracy and Prediction of Response
+Comparison of Margin Status and Clinical Follow-Up between Simple Tumor Enucleation and Partial Nephrectomy of Small Renal Tumors
+Characterization of Papillary Hyperplasia in Nephrectomy Specimens from Patients with Autosomal Dominant Polycystic Kidney Disease - A Study of 60 Cases
+Invasion of Rete Testis Hilar Fat and Epididymis by Testicular Malignant Germ Cell Tumors (MGCT) Does Not Justify Upstaging to pT2
+Diagnostic Criteria for Oncocytic Renal Neoplasms: A Survey of Specialist Renal Tumor Pathologists
+Chromosome 6p Amplification Including the TFEB Gene: A Novel Mechanism of Renal Cell Carcinoma Pathogenesis?
+Clear Cell Renal Cell Tumors with Intact VHL and Chromosome 3p: How Many Entities Exist?
+Clinical Follow-Up of Renal Oncocytomas with Vascular Invasion
+Diversity of Resistance Mechanisms in Prostate Cancer after Neoadjuvant Intense Androgen Deprivation Therapy
+The Correlation of TP53 and RB1 Genetic Alterations and Immunohistochemical (IHC) Expression in Invasive and Non-Invasive Urothelial Carcinoma
+Mutational Analysis of Gleason Score 7 Prostate Cancer Using Next Generation Sequencing and Fluorescent In Situ Hybridization
+PD-L1 Protein Expression and PD-L1 Gene Amplification in Urothelial Carcinoma of the Urinary Bladder
+De-Differentiated Tubulocystic Carcinoma of the Kidney: A Series of 3 Cases with FISH Analysis
+Non-Invasive Micropapillary Urothelial Carcinoma: A Report of 18 Cases
+Sall4 and SF-1 Are Sensitive and Specific Markers for Distinguishing Granulosa Cell Tumors from Yolk Sac Tumors
+Molecular Factors Showing Multivariate Significance for Outcome in a Conservatively Treated Prostate Cancer Biopsy Cohort
+Value of Reflex ImmunoCyt Testing for the Diagnosis of Bladder Cancer
+Rearrangement of the ETS Genes ETV-1 ETV-4 ETV-5 and LK-1 Is a Clonal Event during Prostate Cancer Progression
+Utility of Gata3 and Pax8 Immunohistochemistry in Diagnosing Sarcomatoid Urothelial Carcinoma (UC) and Sarcomatoid Renal Cell Carcinoma (RCC)
+High Risk Human Papilloma Virus DNA Detected in Primary Squamous Cell Carcinoma of Urinary Bladder
+E-Cadherin Expression in Prostatic Adenocarcinoma: Correlation with Gleason Score and Comparison with Invasive High Grade Urothelial Carcinoma
+Loss of PTEN Immunoexpression Is Associated with Increased Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Does Increasing Fuhrman Nuclear Grade Reflect Evolving Epithelial-Mesenchymal Transition in Clear Cell Renal Cell Carcinoma?
+Urothelial CIS with Microinvasion: A Morphologic and Prognostic Study
+Clear Cell Papillary Cystadenoma of the Epididymis and Mesosalpinx: Immunohistochemical Relationship to Clear Cell Papillary Renal Cell Carcinoma (RCC)
+Expression of Parafibromin in Renal Tumors and Its Potential Correlation with Tumor Prognosis
+BCA2 Is Differentially Expressed in Renal Oncocytoma: An Analysis of 158 Renal Neoplasms
+Tumor Regression after Neoadjuvant Chemotherapy Independently Predicts Survival in Bladder Cancer Patients
+Expression of the Na+/K+-Transporting ATPase Gamma Subunit FXYD2 in Chromophobe Renal Cell Carcinoma and Renal Oncocytoma
+The Diagnostic Accuracy and Clinical Role of Percutaneous Renal Needle Core Biopsy in Renal Cortical Neoplasms
+Smaller Prostate Size Is Independently Associated with Biochemical Recurrence in Gleason 7 Prostate Cancer
+Smaller Prostate Size Is Associated with Greater Volume of Disease at Prostatectomy
+Dysregulation of mTOR Pathway in Plasmacytoid Variant of Urothelial Carcinoma of the Urinary Bladder
+ERG Immunoexpression Does Not Predict Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Correlation between ERG Immunohistochemical Expression and Radiation Response in Prostate Cancer
+Renal Tumors in Patients with Von Hippel-Lindau Disease – A Single Institutional Study over 15 Years
+Prognostic Significance of RICTOR Protein Expression in Prostatic Adenocarcinomas (PACs): Nuclear Immunoreactivity Independently Predicts Disease Recurrence
+Inverted/Endophytic Growth Pattern of Papillary Urothelial Neoplasms of the Bladder: Clinicopathological Study in 225 Transurethral Resection Specimens
+Cysteine- Rich Secretory Protein 3 (CRISP3) ERG and PTEN Define a Molecular Subtype of Prostate Cancer with Poorest Clinical Patient’s Outcome
+The Expression Patterns of p53 and p16 and an Analysis of a Possible Role of HPV in Primary Adenocarcinoma of the Urinary Bladder
+Next Generation Targeted Prostate Biopsies vs. Standard Multicore Prostate Biopsies: Comparing Diagnostic Yield
+Clinicopathological Analysis of Testicular Germ Cell Tumor (GCT) with Rhabdomyosarcomatous Transformation
+Pathological Features of Metastatic Regional Lymph Nodes in Penile Squamous Cell Carcinoma
+SALL4 Is a Better Marker Than PLAP in Metastatic Treated Malignant Germ Cell Tumors
+Utility of ERG vs. AMACR Expression in Diagnosis of Minimal Adenocarcinoma of the Prostate in Needle Biopsy Tissue
+Does Discontinuous Involvement of a Prostatic Needle Biopsy Core by Adenocarcinoma Correlate with the Presence of a Large Tumor Focus at Radical Prostatectomy?
+Composite Gleason Score (CGS) Is Superior to Grading Individual Needle Cores When More Than Two Grades Are Present in a 12 Core Prostate Biopsy: A Study of 118 Cases
+Is the 2005 International Society of Urological Pathology (ISUP) Recommendation for Gleason Grading Accurate When Three Different Gleason Grade Patterns Are Present in the Same Needle Core?
+Specificity of GATA3 Staining with Special Emphasis on GATA3 and Uroplakin 2 in Urothelial Lesions
+Utility of Immunohistochemical Stains in Differentiating Urothelial Carcinoma from Squamous Cell Carcinoma
+Novel Technique of Sampling the Urinary Bladder in Radical Cystectomy Specimens for Urothelial Carcinoma
+Basal-Like Variant of Non-Invasive Urothelial Carcinoma: A Variant of Urothelial Carcinoma with Immunohistochemical Features of Basal-Like Urothelial Cells Associated with High Rate of Recurrence and Invasion
+“Early” and Other Patterns Associated with Intraductal Carcinoma of the Prostate (IDC-P): A Study Focusing on Proximal Duct (PD) Involvement and PTEN Loss
+Identification and Validation of Protein Biomarkers of Response to Neoadjuvant Chemotherapy in Muscle Invasive Urothelial Carcinoma
+Handling and Reporting of Orchiectomy Specimens with Testicular Cancer: Areas of Consensus and Variation among 25 Experts and 225 European Pathologists
+GATA3 Expression in Small Cell Carcinoma of Bladder and Lung Origin
+Human Papillomavirus Infection and Immunohistochemical p16INK4a Expression in Penile Squamous Cell Carcinomas
+A Machine Learning Tool to Complement Gleason Grading of Prostate Carcinoma
+Tumor Extent Evaluation in Surgical Specimens of Patients Submitted to Radical Prostatectomy: A Comparative Study
+Topography of Index Tumor in Surgical Specimens of Patients Submitted to Radical Prostatectomy: Clinicopathological Associations
+Clinicopathologic Findings Associated with Insignificant Prostate Cancer in Surgical Specimens of Patients Submitted to Radical Prostatectomy
+A Subset of Prostatic Basal Cell Carcinomas Harbor the MYB Rearrangements That Characterize Salivary Gland Adenoid Cystic Carcinoma
+SPOP Mutations in Prostate Cancer across Ethnically and Geographically Diverse Patient Cohorts
+MED15 Encoding a Subunit of the Mediator Complex Is Overexpressed at High Frequency in Castration-Resistant Prostate Cancer
+Mixed Papillary Renal Cell Carcinoma (PRCC) Represents Similar Patterns of Chromosomal Abnormalities to Those of Pure Type 1 PRCC: A Study Including Nine Cases
+Pathological Predictors of Biochemical Recurrence in Patients with a Positive Surgical Margin at Radical Prostatectomy
+LIN28 Is More Sensitive Than SALL4 and OCT4 in Detecting Necrotic Embryonal Carcinoma and Seminoma
+Fine Needle Aspiration with and without Concurrent Core Needle Biopsy in the Diagnosis of Renal Masses
+CDCA5 Overexpression as a Poor Prognostic Factor in Patients with Urothelial Carcinomas of Upper Urinary Tract and Urinary Bladder
+Molecular Pathways Altered in TMPRSS2/ERG Fusion Gene Expressing Prostate Cancers
+Minimal Prostate Cancer on TRUS Biopsy: Incidence and Follow-Up in a Cohort of 61 Patients
+Expression of de Novo Lipogenic Enzymes and Prostate Cancer Progression after Radical Prostatectomy
+Staging of Bladder Cancer (PTA VS. PT1) among 238 European Pathologists Reporting pTa Versus pT1 on Transuretheral Resection Specimen of the Bladder (TURB). A Survey of 238 European Pathologists
+GATA3 Is a Sensitive and Relatively Specific Biomarker for Testicular Choriocarcinoma
+Papillary Renal Cell Carcinoma: Correlation of Tumor Grade and Histologic Characteristics with Clinical Outcome
+Adult Granulosa Cell Tumors of the Testis: A Case Series of 31 Patients
+Hilar Soft Tissue Involvement by Testicular Germ Cell Tumors Is Associated with Advanced Stage Indicators
+Does the Mitotic Rate in Non-Invasive Low-Grade Papillary Urothelial Carcinoma (LG) Carry a Prognostic Significance?
+Highest Percentage of Core Involvement by Gleason Score 7 (%GS7) Is an Independent Predictor for pT3 Tumor on Radical Prostatectomy (RP) in Patients Diagnosed with Gleason Score 7 (GS7) Prostatic Carcinoma (PCa) on Biopsy
+Length and Extracapsular Extension at Surgical Margins Are Independent Predictors of Outcomes after Radical Prostatectomy
+Sarcomatoid Clear Cell RCC Shows a Distinct Molecular Pathogenesis and Driver Mutation Profile
+Prostate Cancer (PCa) with Overlapping Features of Small Cell Carcinoma and Acinar Adenocarcinoma: A Critical Appraisal of Morphology and Correlation with Immunohistochemical (IHC) Markers
+Clinical and Immunohistochemical (IHC) Spectrum of Renal Cell Carcinomas (RCCs) with Aberrant Fumarate Hydratase (FH)-Related Studies: Report from the High-Grade Distal Nephron Adenocarcinoma (HDNA) International Consortium
+A Novel Low Grade Morphologic Variant of Hereditary Leiomyomatosis-Renal Cell Carcinoma Syndrome-Associated Renal Cell Carcinoma (HLRCC-RCC)?
+Reduced Survival in Estrogen Receptor Beta Expressing Bladder Cancer: Association with Altered PTEN/mTOR Status
+Tumors Involving the Ureteral Orifice: A Clinicopathologic Analysis of 93 Cases
+PLZF: A Sensitive and Specific Biomarker for Yolk Sac Tumor
+Analysis of PD-L1 Expression Pattern in Advanced Bladder Cancer and Lymph Node Metastasis
+Tumor Somatic Mutation Rate Predicts Response to Anti-PD-1 Therapy in RCC: A Pilot Study
+Type 10 Soluble Adenyl Cyclase is Significantly Overexpressed in Small Cell Prostatic Carcinoma Compared to Neuroendocrine Prostatic Carcinoma and Conventional Adenocarcinoma
+Higher Expression of CDKN2A Gene Is Potential Prognostic Marker for Clear Cell Renal Cell Carcinoma
+Prostate Cancer Gleason Grade 4 Pattern Heterogeneity in Men on Active Surveillance Who Undergo Delayed Prostatectomy
+Eosinophilic Solid and Cystic Renal Cell Carcinoma (ESC RCC): A Novel Entity with Distinct Molecular Karyotype
+The Depth of Tumor Invasion Is Superior to the AJCC/UICC Staging System to Predict Patient Outcomes after Radical Cystectomy: A Proposal for a New Staging System
+Presence of Hormone Resistant Intraductal Carcinoma of the Prostate after Neoadjuvant Hormone Therapy Is a Significant Prognostic Factor for High Risk Prostate Cancer in Radical Prostatectomy Patients
+Predictive Value of Intraductal Carcinoma and Cribriform Architecture in Prostate Biopsies of Patients Treated by Radiotherapy
+Better Treatment of Metastases Cannot Fully Explain Prostate Cancer Survival Improvements Associated with PSA Screening
+Comparison of GRP52 mTOR HoxB13 NKX3.1 and Prostein in Metastatic Prostatic Adenocarcinoma
+Neoadjuvant Chemotherapy (NAC)-Related Histological Changes in Radical Cystectomy (RC): Assessment Accuracy and Prediction of Response
+Comparison of Margin Status and Clinical Follow-Up between Simple Tumor Enucleation and Partial Nephrectomy of Small Renal Tumors
+Characterization of Papillary Hyperplasia in Nephrectomy Specimens from Patients with Autosomal Dominant Polycystic Kidney Disease - A Study of 60 Cases
+Invasion of Rete Testis Hilar Fat and Epididymis by Testicular Malignant Germ Cell Tumors (MGCT) Does Not Justify Upstaging to pT2
+Diagnostic Criteria for Oncocytic Renal Neoplasms: A Survey of Specialist Renal Tumor Pathologists
+Chromosome 6p Amplification Including the TFEB Gene: A Novel Mechanism of Renal Cell Carcinoma Pathogenesis?
+Clear Cell Renal Cell Tumors with Intact VHL and Chromosome 3p: How Many Entities Exist?
+Clinical Follow-Up of Renal Oncocytomas with Vascular Invasion
+Diversity of Resistance Mechanisms in Prostate Cancer after Neoadjuvant Intense Androgen Deprivation Therapy
+The Correlation of TP53 and RB1 Genetic Alterations and Immunohistochemical (IHC) Expression in Invasive and Non-Invasive Urothelial Carcinoma
+Mutational Analysis of Gleason Score 7 Prostate Cancer Using Next Generation Sequencing and Fluorescent In Situ Hybridization
+PD-L1 Protein Expression and PD-L1 Gene Amplification in Urothelial Carcinoma of the Urinary Bladder
+De-Differentiated Tubulocystic Carcinoma of the Kidney: A Series of 3 Cases with FISH Analysis
+Non-Invasive Micropapillary Urothelial Carcinoma: A Report of 18 Cases
+Sall4 and SF-1 Are Sensitive and Specific Markers for Distinguishing Granulosa Cell Tumors from Yolk Sac Tumors
+Molecular Factors Showing Multivariate Significance for Outcome in a Conservatively Treated Prostate Cancer Biopsy Cohort
+Value of Reflex ImmunoCyt Testing for the Diagnosis of Bladder Cancer
+Rearrangement of the ETS Genes ETV-1 ETV-4 ETV-5 and LK-1 Is a Clonal Event during Prostate Cancer Progression
+Utility of Gata3 and Pax8 Immunohistochemistry in Diagnosing Sarcomatoid Urothelial Carcinoma (UC) and Sarcomatoid Renal Cell Carcinoma (RCC)
+High Risk Human Papilloma Virus DNA Detected in Primary Squamous Cell Carcinoma of Urinary Bladder
+E-Cadherin Expression in Prostatic Adenocarcinoma: Correlation with Gleason Score and Comparison with Invasive High Grade Urothelial Carcinoma
+Loss of PTEN Immunoexpression Is Associated with Increased Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Does Increasing Fuhrman Nuclear Grade Reflect Evolving Epithelial-Mesenchymal Transition in Clear Cell Renal Cell Carcinoma?
+Urothelial CIS with Microinvasion: A Morphologic and Prognostic Study
+Clear Cell Papillary Cystadenoma of the Epididymis and Mesosalpinx: Immunohistochemical Relationship to Clear Cell Papillary Renal Cell Carcinoma (RCC)
+Expression of Parafibromin in Renal Tumors and Its Potential Correlation with Tumor Prognosis
+BCA2 Is Differentially Expressed in Renal Oncocytoma: An Analysis of 158 Renal Neoplasms
+Tumor Regression after Neoadjuvant Chemotherapy Independently Predicts Survival in Bladder Cancer Patients
+Expression of the Na+/K+-Transporting ATPase Gamma Subunit FXYD2 in Chromophobe Renal Cell Carcinoma and Renal Oncocytoma
+The Diagnostic Accuracy and Clinical Role of Percutaneous Renal Needle Core Biopsy in Renal Cortical Neoplasms
+Smaller Prostate Size Is Independently Associated with Biochemical Recurrence in Gleason 7 Prostate Cancer
+Smaller Prostate Size Is Associated with Greater Volume of Disease at Prostatectomy
+Dysregulation of mTOR Pathway in Plasmacytoid Variant of Urothelial Carcinoma of the Urinary Bladder
+ERG Immunoexpression Does Not Predict Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Correlation between ERG Immunohistochemical Expression and Radiation Response in Prostate Cancer
+Renal Tumors in Patients with Von Hippel-Lindau Disease – A Single Institutional Study over 15 Years
+Prognostic Significance of RICTOR Protein Expression in Prostatic Adenocarcinomas (PACs): Nuclear Immunoreactivity Independently Predicts Disease Recurrence
+Inverted/Endophytic Growth Pattern of Papillary Urothelial Neoplasms of the Bladder: Clinicopathological Study in 225 Transurethral Resection Specimens
+Cysteine- Rich Secretory Protein 3 (CRISP3) ERG and PTEN Define a Molecular Subtype of Prostate Cancer with Poorest Clinical Patient’s Outcome
+The Expression Patterns of p53 and p16 and an Analysis of a Possible Role of HPV in Primary Adenocarcinoma of the Urinary Bladder
+Next Generation Targeted Prostate Biopsies vs. Standard Multicore Prostate Biopsies: Comparing Diagnostic Yield
+Clinicopathological Analysis of Testicular Germ Cell Tumor (GCT) with Rhabdomyosarcomatous Transformation
+Pathological Features of Metastatic Regional Lymph Nodes in Penile Squamous Cell Carcinoma
+SALL4 Is a Better Marker Than PLAP in Metastatic Treated Malignant Germ Cell Tumors
+Utility of ERG vs. AMACR Expression in Diagnosis of Minimal Adenocarcinoma of the Prostate in Needle Biopsy Tissue
+Does Discontinuous Involvement of a Prostatic Needle Biopsy Core by Adenocarcinoma Correlate with the Presence of a Large Tumor Focus at Radical Prostatectomy?
+Composite Gleason Score (CGS) Is Superior to Grading Individual Needle Cores When More Than Two Grades Are Present in a 12 Core Prostate Biopsy: A Study of 118 Cases
+Is the 2005 International Society of Urological Pathology (ISUP) Recommendation for Gleason Grading Accurate When Three Different Gleason Grade Patterns Are Present in the Same Needle Core?
+Specificity of GATA3 Staining with Special Emphasis on GATA3 and Uroplakin 2 in Urothelial Lesions
+Utility of Immunohistochemical Stains in Differentiating Urothelial Carcinoma from Squamous Cell Carcinoma
+Novel Technique of Sampling the Urinary Bladder in Radical Cystectomy Specimens for Urothelial Carcinoma
+Basal-Like Variant of Non-Invasive Urothelial Carcinoma: A Variant of Urothelial Carcinoma with Immunohistochemical Features of Basal-Like Urothelial Cells Associated with High Rate of Recurrence and Invasion
+“Early” and Other Patterns Associated with Intraductal Carcinoma of the Prostate (IDC-P): A Study Focusing on Proximal Duct (PD) Involvement and PTEN Loss
+Identification and Validation of Protein Biomarkers of Response to Neoadjuvant Chemotherapy in Muscle Invasive Urothelial Carcinoma
+Handling and Reporting of Orchiectomy Specimens with Testicular Cancer: Areas of Consensus and Variation among 25 Experts and 225 European Pathologists
+GATA3 Expression in Small Cell Carcinoma of Bladder and Lung Origin
+Human Papillomavirus Infection and Immunohistochemical p16INK4a Expression in Penile Squamous Cell Carcinomas
+A Machine Learning Tool to Complement Gleason Grading of Prostate Carcinoma
+Tumor Extent Evaluation in Surgical Specimens of Patients Submitted to Radical Prostatectomy: A Comparative Study
+Topography of Index Tumor in Surgical Specimens of Patients Submitted to Radical Prostatectomy: Clinicopathological Associations
+Clinicopathologic Findings Associated with Insignificant Prostate Cancer in Surgical Specimens of Patients Submitted to Radical Prostatectomy
+A Subset of Prostatic Basal Cell Carcinomas Harbor the MYB Rearrangements That Characterize Salivary Gland Adenoid Cystic Carcinoma
+SPOP Mutations in Prostate Cancer across Ethnically and Geographically Diverse Patient Cohorts
+MED15 Encoding a Subunit of the Mediator Complex Is Overexpressed at High Frequency in Castration-Resistant Prostate Cancer
+Mixed Papillary Renal Cell Carcinoma (PRCC) Represents Similar Patterns of Chromosomal Abnormalities to Those of Pure Type 1 PRCC: A Study Including Nine Cases
+Pathological Predictors of Biochemical Recurrence in Patients with a Positive Surgical Margin at Radical Prostatectomy
+LIN28 Is More Sensitive Than SALL4 and OCT4 in Detecting Necrotic Embryonal Carcinoma and Seminoma
+Fine Needle Aspiration with and without Concurrent Core Needle Biopsy in the Diagnosis of Renal Masses
+CDCA5 Overexpression as a Poor Prognostic Factor in Patients with Urothelial Carcinomas of Upper Urinary Tract and Urinary Bladder
+Molecular Pathways Altered in TMPRSS2/ERG Fusion Gene Expressing Prostate Cancers
+Minimal Prostate Cancer on TRUS Biopsy: Incidence and Follow-Up in a Cohort of 61 Patients
+Expression of de Novo Lipogenic Enzymes and Prostate Cancer Progression after Radical Prostatectomy
+Staging of Bladder Cancer (PTA VS. PT1) among 238 European Pathologists Reporting pTa Versus pT1 on Transuretheral Resection Specimen of the Bladder (TURB). A Survey of 238 European Pathologists
+GATA3 Is a Sensitive and Relatively Specific Biomarker for Testicular Choriocarcinoma
+Papillary Renal Cell Carcinoma: Correlation of Tumor Grade and Histologic Characteristics with Clinical Outcome
+Adult Granulosa Cell Tumors of the Testis: A Case Series of 31 Patients
+Hilar Soft Tissue Involvement by Testicular Germ Cell Tumors Is Associated with Advanced Stage Indicators
+Does the Mitotic Rate in Non-Invasive Low-Grade Papillary Urothelial Carcinoma (LG) Carry a Prognostic Significance?
+Highest Percentage of Core Involvement by Gleason Score 7 (%GS7) Is an Independent Predictor for pT3 Tumor on Radical Prostatectomy (RP) in Patients Diagnosed with Gleason Score 7 (GS7) Prostatic Carcinoma (PCa) on Biopsy
+Length and Extracapsular Extension at Surgical Margins Are Independent Predictors of Outcomes after Radical Prostatectomy
+Sarcomatoid Clear Cell RCC Shows a Distinct Molecular Pathogenesis and Driver Mutation Profile
+Prostate Cancer (PCa) with Overlapping Features of Small Cell Carcinoma and Acinar Adenocarcinoma: A Critical Appraisal of Morphology and Correlation with Immunohistochemical (IHC) Markers
+Clinical and Immunohistochemical (IHC) Spectrum of Renal Cell Carcinomas (RCCs) with Aberrant Fumarate Hydratase (FH)-Related Studies: Report from the High-Grade Distal Nephron Adenocarcinoma (HDNA) International Consortium
+A Novel Low Grade Morphologic Variant of Hereditary Leiomyomatosis-Renal Cell Carcinoma Syndrome-Associated Renal Cell Carcinoma (HLRCC-RCC)?
+Reduced Survival in Estrogen Receptor Beta Expressing Bladder Cancer: Association with Altered PTEN/mTOR Status
+Tumors Involving the Ureteral Orifice: A Clinicopathologic Analysis of 93 Cases
+PLZF: A Sensitive and Specific Biomarker for Yolk Sac Tumor
+Analysis of PD-L1 Expression Pattern in Advanced Bladder Cancer and Lymph Node Metastasis
+Tumor Somatic Mutation Rate Predicts Response to Anti-PD-1 Therapy in RCC: A Pilot Study
+Type 10 Soluble Adenyl Cyclase is Significantly Overexpressed in Small Cell Prostatic Carcinoma Compared to Neuroendocrine Prostatic Carcinoma and Conventional Adenocarcinoma
+Higher Expression of CDKN2A Gene Is Potential Prognostic Marker for Clear Cell Renal Cell Carcinoma
+Prostate Cancer Gleason Grade 4 Pattern Heterogeneity in Men on Active Surveillance Who Undergo Delayed Prostatectomy
+Eosinophilic Solid and Cystic Renal Cell Carcinoma (ESC RCC): A Novel Entity with Distinct Molecular Karyotype
+The Depth of Tumor Invasion Is Superior to the AJCC/UICC Staging System to Predict Patient Outcomes after Radical Cystectomy: A Proposal for a New Staging System
+Presence of Hormone Resistant Intraductal Carcinoma of the Prostate after Neoadjuvant Hormone Therapy Is a Significant Prognostic Factor for High Risk Prostate Cancer in Radical Prostatectomy Patients
+Predictive Value of Intraductal Carcinoma and Cribriform Architecture in Prostate Biopsies of Patients Treated by Radiotherapy
+Better Treatment of Metastases Cannot Fully Explain Prostate Cancer Survival Improvements Associated with PSA Screening
+Comparison of GRP52 mTOR HoxB13 NKX3.1 and Prostein in Metastatic Prostatic Adenocarcinoma
+Neoadjuvant Chemotherapy (NAC)-Related Histological Changes in Radical Cystectomy (RC): Assessment Accuracy and Prediction of Response
+Comparison of Margin Status and Clinical Follow-Up between Simple Tumor Enucleation and Partial Nephrectomy of Small Renal Tumors
+Characterization of Papillary Hyperplasia in Nephrectomy Specimens from Patients with Autosomal Dominant Polycystic Kidney Disease - A Study of 60 Cases
+Invasion of Rete Testis Hilar Fat and Epididymis by Testicular Malignant Germ Cell Tumors (MGCT) Does Not Justify Upstaging to pT2
+Diagnostic Criteria for Oncocytic Renal Neoplasms: A Survey of Specialist Renal Tumor Pathologists
+Chromosome 6p Amplification Including the TFEB Gene: A Novel Mechanism of Renal Cell Carcinoma Pathogenesis?
+Clear Cell Renal Cell Tumors with Intact VHL and Chromosome 3p: How Many Entities Exist?
+Clinical Follow-Up of Renal Oncocytomas with Vascular Invasion
+Diversity of Resistance Mechanisms in Prostate Cancer after Neoadjuvant Intense Androgen Deprivation Therapy
+The Correlation of TP53 and RB1 Genetic Alterations and Immunohistochemical (IHC) Expression in Invasive and Non-Invasive Urothelial Carcinoma
+Mutational Analysis of Gleason Score 7 Prostate Cancer Using Next Generation Sequencing and Fluorescent In Situ Hybridization
+PD-L1 Protein Expression and PD-L1 Gene Amplification in Urothelial Carcinoma of the Urinary Bladder
+De-Differentiated Tubulocystic Carcinoma of the Kidney: A Series of 3 Cases with FISH Analysis
+Non-Invasive Micropapillary Urothelial Carcinoma: A Report of 18 Cases
+Sall4 and SF-1 Are Sensitive and Specific Markers for Distinguishing Granulosa Cell Tumors from Yolk Sac Tumors
+Molecular Factors Showing Multivariate Significance for Outcome in a Conservatively Treated Prostate Cancer Biopsy Cohort
+Value of Reflex ImmunoCyt Testing for the Diagnosis of Bladder Cancer
+Rearrangement of the ETS Genes ETV-1 ETV-4 ETV-5 and LK-1 Is a Clonal Event during Prostate Cancer Progression
+Utility of Gata3 and Pax8 Immunohistochemistry in Diagnosing Sarcomatoid Urothelial Carcinoma (UC) and Sarcomatoid Renal Cell Carcinoma (RCC)
+High Risk Human Papilloma Virus DNA Detected in Primary Squamous Cell Carcinoma of Urinary Bladder
+E-Cadherin Expression in Prostatic Adenocarcinoma: Correlation with Gleason Score and Comparison with Invasive High Grade Urothelial Carcinoma
+Loss of PTEN Immunoexpression Is Associated with Increased Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Does Increasing Fuhrman Nuclear Grade Reflect Evolving Epithelial-Mesenchymal Transition in Clear Cell Renal Cell Carcinoma?
+Urothelial CIS with Microinvasion: A Morphologic and Prognostic Study
+Clear Cell Papillary Cystadenoma of the Epididymis and Mesosalpinx: Immunohistochemical Relationship to Clear Cell Papillary Renal Cell Carcinoma (RCC)
+Expression of Parafibromin in Renal Tumors and Its Potential Correlation with Tumor Prognosis
+BCA2 Is Differentially Expressed in Renal Oncocytoma: An Analysis of 158 Renal Neoplasms
+Tumor Regression after Neoadjuvant Chemotherapy Independently Predicts Survival in Bladder Cancer Patients
+Expression of the Na+/K+-Transporting ATPase Gamma Subunit FXYD2 in Chromophobe Renal Cell Carcinoma and Renal Oncocytoma
+The Diagnostic Accuracy and Clinical Role of Percutaneous Renal Needle Core Biopsy in Renal Cortical Neoplasms
+Smaller Prostate Size Is Independently Associated with Biochemical Recurrence in Gleason 7 Prostate Cancer
+Smaller Prostate Size Is Associated with Greater Volume of Disease at Prostatectomy
+Dysregulation of mTOR Pathway in Plasmacytoid Variant of Urothelial Carcinoma of the Urinary Bladder
+ERG Immunoexpression Does Not Predict Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Correlation between ERG Immunohistochemical Expression and Radiation Response in Prostate Cancer
+Renal Tumors in Patients with Von Hippel-Lindau Disease – A Single Institutional Study over 15 Years
+Prognostic Significance of RICTOR Protein Expression in Prostatic Adenocarcinomas (PACs): Nuclear Immunoreactivity Independently Predicts Disease Recurrence
+Inverted/Endophytic Growth Pattern of Papillary Urothelial Neoplasms of the Bladder: Clinicopathological Study in 225 Transurethral Resection Specimens
+Cysteine- Rich Secretory Protein 3 (CRISP3) ERG and PTEN Define a Molecular Subtype of Prostate Cancer with Poorest Clinical Patient’s Outcome
+The Expression Patterns of p53 and p16 and an Analysis of a Possible Role of HPV in Primary Adenocarcinoma of the Urinary Bladder
+Next Generation Targeted Prostate Biopsies vs. Standard Multicore Prostate Biopsies: Comparing Diagnostic Yield
+Clinicopathological Analysis of Testicular Germ Cell Tumor (GCT) with Rhabdomyosarcomatous Transformation
+Pathological Features of Metastatic Regional Lymph Nodes in Penile Squamous Cell Carcinoma
+SALL4 Is a Better Marker Than PLAP in Metastatic Treated Malignant Germ Cell Tumors
+Utility of ERG vs. AMACR Expression in Diagnosis of Minimal Adenocarcinoma of the Prostate in Needle Biopsy Tissue
+Does Discontinuous Involvement of a Prostatic Needle Biopsy Core by Adenocarcinoma Correlate with the Presence of a Large Tumor Focus at Radical Prostatectomy?
+Composite Gleason Score (CGS) Is Superior to Grading Individual Needle Cores When More Than Two Grades Are Present in a 12 Core Prostate Biopsy: A Study of 118 Cases
+Is the 2005 International Society of Urological Pathology (ISUP) Recommendation for Gleason Grading Accurate When Three Different Gleason Grade Patterns Are Present in the Same Needle Core?
+Specificity of GATA3 Staining with Special Emphasis on GATA3 and Uroplakin 2 in Urothelial Lesions
+Utility of Immunohistochemical Stains in Differentiating Urothelial Carcinoma from Squamous Cell Carcinoma
+Novel Technique of Sampling the Urinary Bladder in Radical Cystectomy Specimens for Urothelial Carcinoma
+Basal-Like Variant of Non-Invasive Urothelial Carcinoma: A Variant of Urothelial Carcinoma with Immunohistochemical Features of Basal-Like Urothelial Cells Associated with High Rate of Recurrence and Invasion
+“Early” and Other Patterns Associated with Intraductal Carcinoma of the Prostate (IDC-P): A Study Focusing on Proximal Duct (PD) Involvement and PTEN Loss
+Identification and Validation of Protein Biomarkers of Response to Neoadjuvant Chemotherapy in Muscle Invasive Urothelial Carcinoma
+Handling and Reporting of Orchiectomy Specimens with Testicular Cancer: Areas of Consensus and Variation among 25 Experts and 225 European Pathologists
+GATA3 Expression in Small Cell Carcinoma of Bladder and Lung Origin
+Human Papillomavirus Infection and Immunohistochemical p16INK4a Expression in Penile Squamous Cell Carcinomas
+A Machine Learning Tool to Complement Gleason Grading of Prostate Carcinoma
+Tumor Extent Evaluation in Surgical Specimens of Patients Submitted to Radical Prostatectomy: A Comparative Study
+Topography of Index Tumor in Surgical Specimens of Patients Submitted to Radical Prostatectomy: Clinicopathological Associations
+Clinicopathologic Findings Associated with Insignificant Prostate Cancer in Surgical Specimens of Patients Submitted to Radical Prostatectomy
+A Subset of Prostatic Basal Cell Carcinomas Harbor the MYB Rearrangements That Characterize Salivary Gland Adenoid Cystic Carcinoma
+SPOP Mutations in Prostate Cancer across Ethnically and Geographically Diverse Patient Cohorts
+MED15 Encoding a Subunit of the Mediator Complex Is Overexpressed at High Frequency in Castration-Resistant Prostate Cancer
+Mixed Papillary Renal Cell Carcinoma (PRCC) Represents Similar Patterns of Chromosomal Abnormalities to Those of Pure Type 1 PRCC: A Study Including Nine Cases
+Pathological Predictors of Biochemical Recurrence in Patients with a Positive Surgical Margin at Radical Prostatectomy
+LIN28 Is More Sensitive Than SALL4 and OCT4 in Detecting Necrotic Embryonal Carcinoma and Seminoma
+Fine Needle Aspiration with and without Concurrent Core Needle Biopsy in the Diagnosis of Renal Masses
+CDCA5 Overexpression as a Poor Prognostic Factor in Patients with Urothelial Carcinomas of Upper Urinary Tract and Urinary Bladder
+Molecular Pathways Altered in TMPRSS2/ERG Fusion Gene Expressing Prostate Cancers
+Minimal Prostate Cancer on TRUS Biopsy: Incidence and Follow-Up in a Cohort of 61 Patients
+Expression of de Novo Lipogenic Enzymes and Prostate Cancer Progression after Radical Prostatectomy
+Staging of Bladder Cancer (PTA VS. PT1) among 238 European Pathologists Reporting pTa Versus pT1 on Transuretheral Resection Specimen of the Bladder (TURB). A Survey of 238 European Pathologists
+GATA3 Is a Sensitive and Relatively Specific Biomarker for Testicular Choriocarcinoma
+Papillary Renal Cell Carcinoma: Correlation of Tumor Grade and Histologic Characteristics with Clinical Outcome
+Adult Granulosa Cell Tumors of the Testis: A Case Series of 31 Patients
+Hilar Soft Tissue Involvement by Testicular Germ Cell Tumors Is Associated with Advanced Stage Indicators
+Does the Mitotic Rate in Non-Invasive Low-Grade Papillary Urothelial Carcinoma (LG) Carry a Prognostic Significance?
+Highest Percentage of Core Involvement by Gleason Score 7 (%GS7) Is an Independent Predictor for pT3 Tumor on Radical Prostatectomy (RP) in Patients Diagnosed with Gleason Score 7 (GS7) Prostatic Carcinoma (PCa) on Biopsy
+Length and Extracapsular Extension at Surgical Margins Are Independent Predictors of Outcomes after Radical Prostatectomy
+Sarcomatoid Clear Cell RCC Shows a Distinct Molecular Pathogenesis and Driver Mutation Profile
+Prostate Cancer (PCa) with Overlapping Features of Small Cell Carcinoma and Acinar Adenocarcinoma: A Critical Appraisal of Morphology and Correlation with Immunohistochemical (IHC) Markers
+Clinical and Immunohistochemical (IHC) Spectrum of Renal Cell Carcinomas (RCCs) with Aberrant Fumarate Hydratase (FH)-Related Studies: Report from the High-Grade Distal Nephron Adenocarcinoma (HDNA) International Consortium
+A Novel Low Grade Morphologic Variant of Hereditary Leiomyomatosis-Renal Cell Carcinoma Syndrome-Associated Renal Cell Carcinoma (HLRCC-RCC)?
+Reduced Survival in Estrogen Receptor Beta Expressing Bladder Cancer: Association with Altered PTEN/mTOR Status
+Tumors Involving the Ureteral Orifice: A Clinicopathologic Analysis of 93 Cases
+PLZF: A Sensitive and Specific Biomarker for Yolk Sac Tumor
+Analysis of PD-L1 Expression Pattern in Advanced Bladder Cancer and Lymph Node Metastasis
+Tumor Somatic Mutation Rate Predicts Response to Anti-PD-1 Therapy in RCC: A Pilot Study
+Type 10 Soluble Adenyl Cyclase is Significantly Overexpressed in Small Cell Prostatic Carcinoma Compared to Neuroendocrine Prostatic Carcinoma and Conventional Adenocarcinoma
+Higher Expression of CDKN2A Gene Is Potential Prognostic Marker for Clear Cell Renal Cell Carcinoma
+Prostate Cancer Gleason Grade 4 Pattern Heterogeneity in Men on Active Surveillance Who Undergo Delayed Prostatectomy
+Eosinophilic Solid and Cystic Renal Cell Carcinoma (ESC RCC): A Novel Entity with Distinct Molecular Karyotype
+The Depth of Tumor Invasion Is Superior to the AJCC/UICC Staging System to Predict Patient Outcomes after Radical Cystectomy: A Proposal for a New Staging System
+Presence of Hormone Resistant Intraductal Carcinoma of the Prostate after Neoadjuvant Hormone Therapy Is a Significant Prognostic Factor for High Risk Prostate Cancer in Radical Prostatectomy Patients
+Predictive Value of Intraductal Carcinoma and Cribriform Architecture in Prostate Biopsies of Patients Treated by Radiotherapy
+Better Treatment of Metastases Cannot Fully Explain Prostate Cancer Survival Improvements Associated with PSA Screening
+Comparison of GRP52 mTOR HoxB13 NKX3.1 and Prostein in Metastatic Prostatic Adenocarcinoma
+Neoadjuvant Chemotherapy (NAC)-Related Histological Changes in Radical Cystectomy (RC): Assessment Accuracy and Prediction of Response
+Comparison of Margin Status and Clinical Follow-Up between Simple Tumor Enucleation and Partial Nephrectomy of Small Renal Tumors
+Characterization of Papillary Hyperplasia in Nephrectomy Specimens from Patients with Autosomal Dominant Polycystic Kidney Disease - A Study of 60 Cases
+Invasion of Rete Testis Hilar Fat and Epididymis by Testicular Malignant Germ Cell Tumors (MGCT) Does Not Justify Upstaging to pT2
+Diagnostic Criteria for Oncocytic Renal Neoplasms: A Survey of Specialist Renal Tumor Pathologists
+Chromosome 6p Amplification Including the TFEB Gene: A Novel Mechanism of Renal Cell Carcinoma Pathogenesis?
+Clear Cell Renal Cell Tumors with Intact VHL and Chromosome 3p: How Many Entities Exist?
+Clinical Follow-Up of Renal Oncocytomas with Vascular Invasion
+Diversity of Resistance Mechanisms in Prostate Cancer after Neoadjuvant Intense Androgen Deprivation Therapy
+The Correlation of TP53 and RB1 Genetic Alterations and Immunohistochemical (IHC) Expression in Invasive and Non-Invasive Urothelial Carcinoma
+Mutational Analysis of Gleason Score 7 Prostate Cancer Using Next Generation Sequencing and Fluorescent In Situ Hybridization
+PD-L1 Protein Expression and PD-L1 Gene Amplification in Urothelial Carcinoma of the Urinary Bladder
+De-Differentiated Tubulocystic Carcinoma of the Kidney: A Series of 3 Cases with FISH Analysis
+Non-Invasive Micropapillary Urothelial Carcinoma: A Report of 18 Cases
+Sall4 and SF-1 Are Sensitive and Specific Markers for Distinguishing Granulosa Cell Tumors from Yolk Sac Tumors
+Molecular Factors Showing Multivariate Significance for Outcome in a Conservatively Treated Prostate Cancer Biopsy Cohort
+Value of Reflex ImmunoCyt Testing for the Diagnosis of Bladder Cancer
+Rearrangement of the ETS Genes ETV-1 ETV-4 ETV-5 and LK-1 Is a Clonal Event during Prostate Cancer Progression
+Utility of Gata3 and Pax8 Immunohistochemistry in Diagnosing Sarcomatoid Urothelial Carcinoma (UC) and Sarcomatoid Renal Cell Carcinoma (RCC)
+High Risk Human Papilloma Virus DNA Detected in Primary Squamous Cell Carcinoma of Urinary Bladder
+E-Cadherin Expression in Prostatic Adenocarcinoma: Correlation with Gleason Score and Comparison with Invasive High Grade Urothelial Carcinoma
+Loss of PTEN Immunoexpression Is Associated with Increased Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Does Increasing Fuhrman Nuclear Grade Reflect Evolving Epithelial-Mesenchymal Transition in Clear Cell Renal Cell Carcinoma?
+Urothelial CIS with Microinvasion: A Morphologic and Prognostic Study
+Clear Cell Papillary Cystadenoma of the Epididymis and Mesosalpinx: Immunohistochemical Relationship to Clear Cell Papillary Renal Cell Carcinoma (RCC)
+Expression of Parafibromin in Renal Tumors and Its Potential Correlation with Tumor Prognosis
+BCA2 Is Differentially Expressed in Renal Oncocytoma: An Analysis of 158 Renal Neoplasms
+Tumor Regression after Neoadjuvant Chemotherapy Independently Predicts Survival in Bladder Cancer Patients
+Expression of the Na+/K+-Transporting ATPase Gamma Subunit FXYD2 in Chromophobe Renal Cell Carcinoma and Renal Oncocytoma
+The Diagnostic Accuracy and Clinical Role of Percutaneous Renal Needle Core Biopsy in Renal Cortical Neoplasms
+Smaller Prostate Size Is Independently Associated with Biochemical Recurrence in Gleason 7 Prostate Cancer
+Smaller Prostate Size Is Associated with Greater Volume of Disease at Prostatectomy
+Dysregulation of mTOR Pathway in Plasmacytoid Variant of Urothelial Carcinoma of the Urinary Bladder
+ERG Immunoexpression Does Not Predict Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Correlation between ERG Immunohistochemical Expression and Radiation Response in Prostate Cancer
+Renal Tumors in Patients with Von Hippel-Lindau Disease – A Single Institutional Study over 15 Years
+Prognostic Significance of RICTOR Protein Expression in Prostatic Adenocarcinomas (PACs): Nuclear Immunoreactivity Independently Predicts Disease Recurrence
+Inverted/Endophytic Growth Pattern of Papillary Urothelial Neoplasms of the Bladder: Clinicopathological Study in 225 Transurethral Resection Specimens
+Cysteine- Rich Secretory Protein 3 (CRISP3) ERG and PTEN Define a Molecular Subtype of Prostate Cancer with Poorest Clinical Patient’s Outcome
+The Expression Patterns of p53 and p16 and an Analysis of a Possible Role of HPV in Primary Adenocarcinoma of the Urinary Bladder
+Next Generation Targeted Prostate Biopsies vs. Standard Multicore Prostate Biopsies: Comparing Diagnostic Yield
+Clinicopathological Analysis of Testicular Germ Cell Tumor (GCT) with Rhabdomyosarcomatous Transformation
+Pathological Features of Metastatic Regional Lymph Nodes in Penile Squamous Cell Carcinoma
+SALL4 Is a Better Marker Than PLAP in Metastatic Treated Malignant Germ Cell Tumors
+Utility of ERG vs. AMACR Expression in Diagnosis of Minimal Adenocarcinoma of the Prostate in Needle Biopsy Tissue
+Does Discontinuous Involvement of a Prostatic Needle Biopsy Core by Adenocarcinoma Correlate with the Presence of a Large Tumor Focus at Radical Prostatectomy?
+Composite Gleason Score (CGS) Is Superior to Grading Individual Needle Cores When More Than Two Grades Are Present in a 12 Core Prostate Biopsy: A Study of 118 Cases
+Is the 2005 International Society of Urological Pathology (ISUP) Recommendation for Gleason Grading Accurate When Three Different Gleason Grade Patterns Are Present in the Same Needle Core?
+Specificity of GATA3 Staining with Special Emphasis on GATA3 and Uroplakin 2 in Urothelial Lesions
+Utility of Immunohistochemical Stains in Differentiating Urothelial Carcinoma from Squamous Cell Carcinoma
+Novel Technique of Sampling the Urinary Bladder in Radical Cystectomy Specimens for Urothelial Carcinoma
+Basal-Like Variant of Non-Invasive Urothelial Carcinoma: A Variant of Urothelial Carcinoma with Immunohistochemical Features of Basal-Like Urothelial Cells Associated with High Rate of Recurrence and Invasion
+“Early” and Other Patterns Associated with Intraductal Carcinoma of the Prostate (IDC-P): A Study Focusing on Proximal Duct (PD) Involvement and PTEN Loss
+Identification and Validation of Protein Biomarkers of Response to Neoadjuvant Chemotherapy in Muscle Invasive Urothelial Carcinoma
+Handling and Reporting of Orchiectomy Specimens with Testicular Cancer: Areas of Consensus and Variation among 25 Experts and 225 European Pathologists
+GATA3 Expression in Small Cell Carcinoma of Bladder and Lung Origin
+Human Papillomavirus Infection and Immunohistochemical p16INK4a Expression in Penile Squamous Cell Carcinomas
+A Machine Learning Tool to Complement Gleason Grading of Prostate Carcinoma
+Tumor Extent Evaluation in Surgical Specimens of Patients Submitted to Radical Prostatectomy: A Comparative Study
+Topography of Index Tumor in Surgical Specimens of Patients Submitted to Radical Prostatectomy: Clinicopathological Associations
+Clinicopathologic Findings Associated with Insignificant Prostate Cancer in Surgical Specimens of Patients Submitted to Radical Prostatectomy
+A Subset of Prostatic Basal Cell Carcinomas Harbor the MYB Rearrangements That Characterize Salivary Gland Adenoid Cystic Carcinoma
+SPOP Mutations in Prostate Cancer across Ethnically and Geographically Diverse Patient Cohorts
+MED15 Encoding a Subunit of the Mediator Complex Is Overexpressed at High Frequency in Castration-Resistant Prostate Cancer
+Mixed Papillary Renal Cell Carcinoma (PRCC) Represents Similar Patterns of Chromosomal Abnormalities to Those of Pure Type 1 PRCC: A Study Including Nine Cases
+Pathological Predictors of Biochemical Recurrence in Patients with a Positive Surgical Margin at Radical Prostatectomy
+LIN28 Is More Sensitive Than SALL4 and OCT4 in Detecting Necrotic Embryonal Carcinoma and Seminoma
+Fine Needle Aspiration with and without Concurrent Core Needle Biopsy in the Diagnosis of Renal Masses
+CDCA5 Overexpression as a Poor Prognostic Factor in Patients with Urothelial Carcinomas of Upper Urinary Tract and Urinary Bladder
+Molecular Pathways Altered in TMPRSS2/ERG Fusion Gene Expressing Prostate Cancers
+Minimal Prostate Cancer on TRUS Biopsy: Incidence and Follow-Up in a Cohort of 61 Patients
+Expression of de Novo Lipogenic Enzymes and Prostate Cancer Progression after Radical Prostatectomy
+Staging of Bladder Cancer (PTA VS. PT1) among 238 European Pathologists Reporting pTa Versus pT1 on Transuretheral Resection Specimen of the Bladder (TURB). A Survey of 238 European Pathologists
+GATA3 Is a Sensitive and Relatively Specific Biomarker for Testicular Choriocarcinoma
+Papillary Renal Cell Carcinoma: Correlation of Tumor Grade and Histologic Characteristics with Clinical Outcome
+Adult Granulosa Cell Tumors of the Testis: A Case Series of 31 Patients
+Hilar Soft Tissue Involvement by Testicular Germ Cell Tumors Is Associated with Advanced Stage Indicators
+Does the Mitotic Rate in Non-Invasive Low-Grade Papillary Urothelial Carcinoma (LG) Carry a Prognostic Significance?
+Highest Percentage of Core Involvement by Gleason Score 7 (%GS7) Is an Independent Predictor for pT3 Tumor on Radical Prostatectomy (RP) in Patients Diagnosed with Gleason Score 7 (GS7) Prostatic Carcinoma (PCa) on Biopsy
+Length and Extracapsular Extension at Surgical Margins Are Independent Predictors of Outcomes after Radical Prostatectomy
+Sarcomatoid Clear Cell RCC Shows a Distinct Molecular Pathogenesis and Driver Mutation Profile
+Prostate Cancer (PCa) with Overlapping Features of Small Cell Carcinoma and Acinar Adenocarcinoma: A Critical Appraisal of Morphology and Correlation with Immunohistochemical (IHC) Markers
+Clinical and Immunohistochemical (IHC) Spectrum of Renal Cell Carcinomas (RCCs) with Aberrant Fumarate Hydratase (FH)-Related Studies: Report from the High-Grade Distal Nephron Adenocarcinoma (HDNA) International Consortium
+A Novel Low Grade Morphologic Variant of Hereditary Leiomyomatosis-Renal Cell Carcinoma Syndrome-Associated Renal Cell Carcinoma (HLRCC-RCC)?
+Reduced Survival in Estrogen Receptor Beta Expressing Bladder Cancer: Association with Altered PTEN/mTOR Status
+Tumors Involving the Ureteral Orifice: A Clinicopathologic Analysis of 93 Cases
+PLZF: A Sensitive and Specific Biomarker for Yolk Sac Tumor
+Analysis of PD-L1 Expression Pattern in Advanced Bladder Cancer and Lymph Node Metastasis
+Tumor Somatic Mutation Rate Predicts Response to Anti-PD-1 Therapy in RCC: A Pilot Study
+Type 10 Soluble Adenyl Cyclase is Significantly Overexpressed in Small Cell Prostatic Carcinoma Compared to Neuroendocrine Prostatic Carcinoma and Conventional Adenocarcinoma
+Higher Expression of CDKN2A Gene Is Potential Prognostic Marker for Clear Cell Renal Cell Carcinoma
+Prostate Cancer Gleason Grade 4 Pattern Heterogeneity in Men on Active Surveillance Who Undergo Delayed Prostatectomy
+Eosinophilic Solid and Cystic Renal Cell Carcinoma (ESC RCC): A Novel Entity with Distinct Molecular Karyotype
+The Depth of Tumor Invasion Is Superior to the AJCC/UICC Staging System to Predict Patient Outcomes after Radical Cystectomy: A Proposal for a New Staging System
+Presence of Hormone Resistant Intraductal Carcinoma of the Prostate after Neoadjuvant Hormone Therapy Is a Significant Prognostic Factor for High Risk Prostate Cancer in Radical Prostatectomy Patients
+Predictive Value of Intraductal Carcinoma and Cribriform Architecture in Prostate Biopsies of Patients Treated by Radiotherapy
+Better Treatment of Metastases Cannot Fully Explain Prostate Cancer Survival Improvements Associated with PSA Screening
+Comparison of GRP52 mTOR HoxB13 NKX3.1 and Prostein in Metastatic Prostatic Adenocarcinoma
+Neoadjuvant Chemotherapy (NAC)-Related Histological Changes in Radical Cystectomy (RC): Assessment Accuracy and Prediction of Response
+Comparison of Margin Status and Clinical Follow-Up between Simple Tumor Enucleation and Partial Nephrectomy of Small Renal Tumors
+Characterization of Papillary Hyperplasia in Nephrectomy Specimens from Patients with Autosomal Dominant Polycystic Kidney Disease - A Study of 60 Cases
+Invasion of Rete Testis Hilar Fat and Epididymis by Testicular Malignant Germ Cell Tumors (MGCT) Does Not Justify Upstaging to pT2
+Diagnostic Criteria for Oncocytic Renal Neoplasms: A Survey of Specialist Renal Tumor Pathologists
+Chromosome 6p Amplification Including the TFEB Gene: A Novel Mechanism of Renal Cell Carcinoma Pathogenesis?
+Clear Cell Renal Cell Tumors with Intact VHL and Chromosome 3p: How Many Entities Exist?
+Clinical Follow-Up of Renal Oncocytomas with Vascular Invasion
+Diversity of Resistance Mechanisms in Prostate Cancer after Neoadjuvant Intense Androgen Deprivation Therapy
+The Correlation of TP53 and RB1 Genetic Alterations and Immunohistochemical (IHC) Expression in Invasive and Non-Invasive Urothelial Carcinoma
+Mutational Analysis of Gleason Score 7 Prostate Cancer Using Next Generation Sequencing and Fluorescent In Situ Hybridization
+PD-L1 Protein Expression and PD-L1 Gene Amplification in Urothelial Carcinoma of the Urinary Bladder
+De-Differentiated Tubulocystic Carcinoma of the Kidney: A Series of 3 Cases with FISH Analysis
+Non-Invasive Micropapillary Urothelial Carcinoma: A Report of 18 Cases
+Sall4 and SF-1 Are Sensitive and Specific Markers for Distinguishing Granulosa Cell Tumors from Yolk Sac Tumors
+Molecular Factors Showing Multivariate Significance for Outcome in a Conservatively Treated Prostate Cancer Biopsy Cohort
+Value of Reflex ImmunoCyt Testing for the Diagnosis of Bladder Cancer
+Rearrangement of the ETS Genes ETV-1 ETV-4 ETV-5 and LK-1 Is a Clonal Event during Prostate Cancer Progression
+Utility of Gata3 and Pax8 Immunohistochemistry in Diagnosing Sarcomatoid Urothelial Carcinoma (UC) and Sarcomatoid Renal Cell Carcinoma (RCC)
+High Risk Human Papilloma Virus DNA Detected in Primary Squamous Cell Carcinoma of Urinary Bladder
+E-Cadherin Expression in Prostatic Adenocarcinoma: Correlation with Gleason Score and Comparison with Invasive High Grade Urothelial Carcinoma
+Loss of PTEN Immunoexpression Is Associated with Increased Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Does Increasing Fuhrman Nuclear Grade Reflect Evolving Epithelial-Mesenchymal Transition in Clear Cell Renal Cell Carcinoma?
+Urothelial CIS with Microinvasion: A Morphologic and Prognostic Study
+Clear Cell Papillary Cystadenoma of the Epididymis and Mesosalpinx: Immunohistochemical Relationship to Clear Cell Papillary Renal Cell Carcinoma (RCC)
+Expression of Parafibromin in Renal Tumors and Its Potential Correlation with Tumor Prognosis
+BCA2 Is Differentially Expressed in Renal Oncocytoma: An Analysis of 158 Renal Neoplasms
+Tumor Regression after Neoadjuvant Chemotherapy Independently Predicts Survival in Bladder Cancer Patients
+Expression of the Na+/K+-Transporting ATPase Gamma Subunit FXYD2 in Chromophobe Renal Cell Carcinoma and Renal Oncocytoma
+The Diagnostic Accuracy and Clinical Role of Percutaneous Renal Needle Core Biopsy in Renal Cortical Neoplasms
+Smaller Prostate Size Is Independently Associated with Biochemical Recurrence in Gleason 7 Prostate Cancer
+Smaller Prostate Size Is Associated with Greater Volume of Disease at Prostatectomy
+Dysregulation of mTOR Pathway in Plasmacytoid Variant of Urothelial Carcinoma of the Urinary Bladder
+ERG Immunoexpression Does Not Predict Risk of Recurrence after Prostatectomy for Clinically-Localized Prostate Cancer
+Correlation between ERG Immunohistochemical Expression and Radiation Response in Prostate Cancer
+Renal Tumors in Patients with Von Hippel-Lindau Disease – A Single Institutional Study over 15 Years
+Prognostic Significance of RICTOR Protein Expression in Prostatic Adenocarcinomas (PACs): Nuclear Immunoreactivity Independently Predicts Disease Recurrence
+Inverted/Endophytic Growth Pattern of Papillary Urothelial Neoplasms of the Bladder: Clinicopathological Study in 225 Transurethral Resection Specimens
+Cysteine- Rich Secretory Protein 3 (CRISP3) ERG and PTEN Define a Molecular Subtype of Prostate Cancer with Poorest Clinical Patient’s Outcome
+The Expression Patterns of p53 and p16 and an Analysis of a Possible Role of HPV in Primary Adenocarcinoma of the Urinary Bladder
+Next Generation Targeted Prostate Biopsies vs. Standard Multicore Prostate Biopsies: Comparing Diagnostic Yield
+Clinicopathological Analysis of Testicular Germ Cell Tumor (GCT) with Rhabdomyosarcomatous Transformation
+Pathological Features of Metastatic Regional Lymph Nodes in Penile Squamous Cell Carcinoma
+SALL4 Is a Better Marker Than PLAP in Metastatic Treated Malignant Germ Cell Tumors
+Utility of ERG vs. AMACR Expression in Diagnosis of Minimal Adenocarcinoma of the Prostate in Needle Biopsy Tissue
+Does Discontinuous Involvement of a Prostatic Needle Biopsy Core by Adenocarcinoma Correlate with the Presence of a Large Tumor Focus at Radical Prostatectomy?
+Composite Gleason Score (CGS) Is Superior to Grading Individual Needle Cores When More Than Two Grades Are Present in a 12 Core Prostate Biopsy: A Study of 118 Cases
+Is the 2005 International Society of Urological Pathology (ISUP) Recommendation for Gleason Grading Accurate When Three Different Gleason Grade Patterns Are Present in the Same Needle Core?
+Specificity of GATA3 Staining with Special Emphasis on GATA3 and Uroplakin 2 in Urothelial Lesions
+Utility of Immunohistochemical Stains in Differentiating Urothelial Carcinoma from Squamous Cell Carcinoma
+Novel Technique of Sampling the Urinary Bladder in Radical Cystectomy Specimens for Urothelial Carcinoma
+Basal-Like Variant of Non-Invasive Urothelial Carcinoma: A Variant of Urothelial Carcinoma with Immunohistochemical Features of Basal-Like Urothelial Cells Associated with High Rate of Recurrence and Invasion
+“Early” and Other Patterns Associated with Intraductal Carcinoma of the Prostate (IDC-P): A Study Focusing on Proximal Duct (PD) Involvement and PTEN Loss
+Identification and Validation of Protein Biomarkers of Response to Neoadjuvant Chemotherapy in Muscle Invasive Urothelial Carcinoma
+Handling and Reporting of Orchiectomy Specimens with Testicular Cancer: Areas of Consensus and Variation among 25 Experts and 225 European Pathologists
+GATA3 Expression in Small Cell Carcinoma of Bladder and Lung Origin
+Human Papillomavirus Infection and Immunohistochemical p16INK4a Expression in Penile Squamous Cell Carcinomas
+A Machine Learning Tool to Complement Gleason Grading of Prostate Carcinoma
+Tumor Extent Evaluation in Surgical Specimens of Patients Submitted to Radical Prostatectomy: A Comparative Study
+Topography of Index Tumor in Surgical Specimens of Patients Submitted to Radical Prostatectomy: Clinicopathological Associations
+Clinicopathologic Findings Associated with Insignificant Prostate Cancer in Surgical Specimens of Patients Submitted to Radical Prostatectomy
+A Subset of Prostatic Basal Cell Carcinomas Harbor the MYB Rearrangements That Characterize Salivary Gland Adenoid Cystic Carcinoma
+SPOP Mutations in Prostate Cancer across Ethnically and Geographically Diverse Patient Cohorts
+MED15 Encoding a Subunit of the Mediator Complex Is Overexpressed at High Frequency in Castration-Resistant Prostate Cancer
+Mixed Papillary Renal Cell Carcinoma (PRCC) Represents Similar Patterns of Chromosomal Abnormalities to Those of Pure Type 1 PRCC: A Study Including Nine Cases
+Pathological Predictors of Biochemical Recurrence in Patients with a Positive Surgical Margin at Radical Prostatectomy
+LIN28 Is More Sensitive Than SALL4 and OCT4 in Detecting Necrotic Embryonal Carcinoma and Seminoma
+Fine Needle Aspiration with and without Concurrent Core Needle Biopsy in the Diagnosis of Renal Masses
+CDCA5 Overexpression as a Poor Prognostic Factor in Patients with Urothelial Carcinomas of Upper Urinary Tract and Urinary Bladder
+Molecular Pathways Altered in TMPRSS2/ERG Fusion Gene Expressing Prostate Cancers
+Minimal Prostate Cancer on TRUS Biopsy: Incidence and Follow-Up in a Cohort of 61 Patients
+Expression of de Novo Lipogenic Enzymes and Prostate Cancer Progression after Radical Prostatectomy
+Staging of Bladder Cancer (PTA VS. PT1) among 238 European Pathologists Reporting pTa Versus pT1 on Transuretheral Resection Specimen of the Bladder (TURB). A Survey of 238 European Pathologists
+GATA3 Is a Sensitive and Relatively Specific Biomarker for Testicular Choriocarcinoma
+Papillary Renal Cell Carcinoma: Correlation of Tumor Grade and Histologic Characteristics with Clinical Outcome
+Adult Granulosa Cell Tumors of the Testis: A Case Series of 31 Patients
+Hilar Soft Tissue Involvement by Testicular Germ Cell Tumors Is Associated with Advanced Stage Indicators
+Does the Mitotic Rate in Non-Invasive Low-Grade Papillary Urothelial Carcinoma (LG) Carry a Prognostic Significance?
+Highest Percentage of Core Involvement by Gleason Score 7 (%GS7) Is an Independent Predictor for pT3 Tumor on Radical Prostatectomy (RP) in Patients Diagnosed with Gleason Score 7 (GS7) Prostatic Carcinoma (PCa) on Biopsy
+Length and Extracapsular Extension at Surgical Margins Are Independent Predictors of Outcomes after Radical Prostatectomy
+Sarcomatoid Clear Cell RCC Shows a Distinct Molecular Pathogenesis and Driver Mutation Profile
+Prostate Cancer (PCa) with Overlapping Features of Small Cell Carcinoma and Acinar Adenocarcinoma: A Critical Appraisal of Morphology and Correlation with Immunohistochemical (IHC) Markers
+Clinical and Immunohistochemical (IHC) Spectrum of Renal Cell Carcinomas (RCCs) with Aberrant Fumarate Hydratase (FH)-Related Studies: Report from the High-Grade Distal Nephron Adenocarcinoma (HDNA) International Consortium
+A Novel Low Grade Morphologic Variant of Hereditary Leiomyomatosis-Renal Cell Carcinoma Syndrome-Associated Renal Cell Carcinoma (HLRCC-RCC)?
+Reduced Survival in Estrogen Receptor Beta Expressing Bladder Cancer: Association with Altered PTEN/mTOR Status
+Tumors Involving the Ureteral Orifice: A Clinicopathologic Analysis of 93 Cases
+PLZF: A Sensitive and Specific Biomarker for Yolk Sac Tumor
+Analysis of PD-L1 Expression Pattern in Advanced Bladder Cancer and Lymph Node Metastasis
+Tumor Somatic Mutation Rate Predicts Response to Anti-PD-1 Therapy in RCC: A Pilot Study
+Type 10 Soluble Adenyl Cyclase is Significantly Overexpressed in Small Cell Prostatic Carcinoma Compared to Neuroendocrine Prostatic Carcinoma and Conventional Adenocarcinoma
+Higher Expression of CDKN2A Gene Is Potential Prognostic Marker for Clear Cell Renal Cell Carcinoma
+Prostate Cancer Gleason Grade 4 Pattern Heterogeneity in Men on Active Surveillance Who Undergo Delayed Prostatectomy
+Eosinophilic Solid and Cystic Renal Cell Carcinoma (ESC RCC): A Novel Entity with Distinct Molecular Karyotype
+The Depth of Tumor Invasion Is Superior to the AJCC/UICC Staging System to Predict Patient Outcomes after Radical Cystectomy: A Proposal for a New Staging System
+Presence of Hormone Resistant Intraductal Carcinoma of the Prostate after Neoadjuvant Hormone Therapy Is a Significant Prognostic Factor for High Risk Prostate Cancer in Radical Prostatectomy Patients
+Predictive Value of Intraductal Carcinoma and Cribriform Architecture in Prostate Biopsies of Patients Treated by Radiotherapy
+Better Treatment of Metastases Cannot Fully Explain Prostate Cancer Survival Improvements Associated with PSA Screening
+Comparison of GRP52 mTOR HoxB13 NKX3.1 and Prostein in Metastatic Prostatic Adenocarcinoma
+Neoadjuvant Chemotherapy (NAC)-Related Histological Changes in Radical Cystectomy (RC): Assessment Accuracy and Prediction of Response
+Comparison of Margin Status and Clinical Follow-Up between Simple Tumor Enucleation and Partial Nephrectomy of Small Renal Tumors
+Characterization of Papillary Hyperplasia in Nephrectomy Specimens from Patients with Autosomal Dominant Polycystic Kidney Disease - A Study of 60 Cases
+Invasion of Rete Testis Hilar Fat and Epididymis by Testicular Malignant Germ Cell Tumors (MGCT) Does Not Justify Upstaging to pT2
+Diagnostic Criteria for Oncocytic Renal Neoplasms: A Survey of Specialist Renal Tumor Pathologists
+Chromosome 6p Amplification Including the TFEB Gene: A Novel Mechanism of Renal Cell Carcinoma Pathogenesis?
+Clear Cell Renal Cell Tumors with Intact VHL and Chromosome 3p: How Many Entities Exist?
+Clinical Follow-Up of Renal Oncocytomas with Vascular Invasion
+Diversity of Resistance Mechanisms in Prostate Cancer after Neoadjuvant Intense Androgen Deprivation Therapy
+The Correlation of TP53 and RB1 Genetic Alterations and Immunohistochemical (IHC) Expression in Invasive and Non-Invasive Urothelial Carcinoma
+Mutational Analysis of Gleason Score 7 Prostate Cancer Using Next Generation Sequencing and Fluorescent In Situ Hybridization
+PD-L1 Protein Expression and PD-L1 Gene Amplification in Urothelial Carcinoma of the Urinary Bladder
