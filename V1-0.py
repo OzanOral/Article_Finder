@@ -100,7 +100,7 @@ for each in query:
     "pmid": pmid
 }
     result_list.append(result)
-    with open('githubversion_results.txt', 'a') as f:
+    with open('Results.txt', 'a') as f:
        f.write(f_result)
 f.close()
 
