@@ -7,7 +7,6 @@ from datetime import datetime
 from config import query_with_FA_Title as query
 from config import API_KEY
 from serpapi import GoogleSearch
-import json
 
 driver = webdriver.Chrome()
 
@@ -54,7 +53,6 @@ def gather_info_serpapi(search):
     return title_result, doc_type, link, summary, author, cited_by, author_match
 
 result_list=[]
-query = query[1629:]
 for each in query:
 
     title, first_author = split_query(each)
@@ -104,12 +102,8 @@ for each in query:
     result_list.append(result)
     with open('githubversion_results.txt', 'a') as f:
        f.write(f_result)
-       
-with open('data.json', 'w') as j:
-    json.dump(result_list, j)
-
 f.close()
-j.close()
+
 
 
  
