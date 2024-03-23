@@ -39,6 +39,8 @@ Verify that your SerpAPI key is valid and has not exceeded its request limit.
 Contributing
 Contributions to improve the script or extend its capabilities are welcome. Please feel free to fork the repository and submit pull requests.
 
+** Old commits were deleted intentionally. Because they contained some sensitive information.
+
 #License
 
 
